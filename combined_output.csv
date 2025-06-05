@@ -47,6 +47,18 @@ Mathematics,26690.0,Female,2005,Standard Grade
 Biology,15569.0,Female,2005,Standard Grade
 Chemistry,10545.0,Female,2005,Standard Grade
 Physics,4618.0,Female,2005,Standard Grade
+English,29104.0,Male,2008,Standard Grade
+French,14375.0,Male,2008,Standard Grade
+Mathematics,25843.0,Male,2008,Standard Grade
+Biology,7306.0,Male,2008,Standard Grade
+Chemistry,9736.0,Male,2008,Standard Grade
+Physics,10970.0,Male,2008,Standard Grade
+English,28814.0,Female,2008,Standard Grade
+French,16405.0,Female,2008,Standard Grade
+Mathematics,25139.0,Female,2008,Standard Grade
+Biology,15013.0,Female,2008,Standard Grade
+Chemistry,10037.0,Female,2008,Standard Grade
+Physics,4329.0,Female,2008,Standard Grade
 English,30156.0,Male,2007,Standard Grade
 French,15104.0,Male,2007,Standard Grade
 Mathematics,27324.0,Male,2007,Standard Grade
@@ -197,6 +209,18 @@ Biology,6096.0,Female,2005,Higher
 Chemistry,4754.0,Female,2005,Higher
 Physics,2555.0,Female,2005,Higher
 Computing,505.0,Female,2005,Higher
+English,11117.0,Male,2008,Higher
+French,1125.0,Male,2008,Higher
+Mathematics,10140.0,Male,2008,Higher
+Biology,3114.0,Male,2008,Higher
+Chemistry,4858.0,Male,2008,Higher
+Physics,6386.0,Male,2008,Higher
+English,16089.0,Female,2008,Higher
+French,3477.0,Female,2008,Higher
+Mathematics,9496.0,Female,2008,Higher
+Biology,6018.0,Female,2008,Higher
+Chemistry,4647.0,Female,2008,Higher
+Physics,2379.0,Female,2008,Higher
 English,11283.0,Male,2007,Higher
 French,1136.0,Male,2007,Higher
 Mathematics,9646.0,Male,2007,Higher
@@ -303,6 +327,20 @@ Biology,1217.0,Female,2005,Advanced Higher
 Chemistry,903.0,Female,2005,Advanced Higher
 Physics,329.0,Female,2005,Advanced Higher
 Computing,62.0,Female,2005,Advanced Higher
+English,567.0,Male,2008,Advanced Higher
+French,140.0,Male,2008,Advanced Higher
+Mathematics,1624.0,Male,2008,Advanced Higher
+Biology,622.0,Male,2008,Advanced Higher
+Chemistry,1037.0,Male,2008,Advanced Higher
+Physics,1095.0,Male,2008,Advanced Higher
+Computing,301.0,Male,2008,Advanced Higher
+English,1146.0,Female,2008,Advanced Higher
+French,579.0,Female,2008,Advanced Higher
+Mathematics,1128.0,Female,2008,Advanced Higher
+Biology,1333.0,Female,2008,Advanced Higher
+Chemistry,1106.0,Female,2008,Advanced Higher
+Physics,308.0,Female,2008,Advanced Higher
+Computing,65.0,Female,2008,Advanced Higher
 English,542.0,Male,2007,Advanced Higher
 French,138.0,Male,2007,Advanced Higher
 Mathematics,1505.0,Male,2007,Advanced Higher
