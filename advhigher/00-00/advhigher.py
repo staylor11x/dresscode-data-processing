@@ -2,6 +2,8 @@ import os
 import pandas as pd
 import xlwings as xw
 
+from utils import readexcel
+
 # === CONFIGURATION ===
 folder_path = r"C:\Users\scott\OneDrive\Employment\JP Morgan\dressCode\Raw Data 2000 to 2005\Advanced Higher\2000-2000"
 sheet_names = ["CS3a", "CS3b"]  # Process both sheets
@@ -11,20 +13,20 @@ subjects_to_include = [
     "Mathematics", "Physics"
 ]
 
-def read_sheet_with_xlwings(file_path, sheet_name):
-    try:
-        app = xw.App(visible=False)
-        wb = app.books.open(file_path)
-        sht = wb.sheets[sheet_name]
+# def read_sheet_with_xlwings(file_path, sheet_name):
+#     try:
+#         app = xw.App(visible=False)
+#         wb = app.books.open(file_path)
+#         sht = wb.sheets[sheet_name]
 
-        data = sht.used_range.value
-        wb.close()
-        app.quit()
+#         data = sht.used_range.value
+#         wb.close()
+#         app.quit()
 
-        return pd.DataFrame(data)
-    except Exception as e:
-        print(f"Failed to read {sheet_name} in {file_path} with xlwings: {e}")
-        return pd.DataFrame()
+#         return pd.DataFrame(data)
+#     except Exception as e:
+#         print(f"Failed to read {sheet_name} in {file_path} with xlwings: {e}")
+#         return pd.DataFrame()
 
 # === MAIN PROCESSING ===
 combined_df = pd.DataFrame()
@@ -37,7 +39,7 @@ for filename in os.listdir(folder_path):
         for sheet_name in sheet_names:
             print(f"  -> Reading sheet: {sheet_name}")
 
-            df = read_sheet_with_xlwings(file_path, sheet_name)
+            df = readexcel.read_sheet_with_xlwings(file_path, sheet_name)
 
             if df.empty:
                 print(f"  !! Skipping {sheet_name} — sheet is empty or failed to load.")
