@@ -1,4 +1,14 @@
 Subject,Entries,Gender,Year,Level
+French,15794.0,Male,2006,Standard Grade
+Mathematics,27090.0,Male,2006,Standard Grade
+Biology,7193.0,Male,2006,Standard Grade
+Chemistry,10198.0,Male,2006,Standard Grade
+Physics,12328.0,Male,2006,Standard Grade
+French,18046.0,Female,2006,Standard Grade
+Mathematics,26692.0,Female,2006,Standard Grade
+Biology,16007.0,Female,2006,Standard Grade
+Chemistry,10490.0,Female,2006,Standard Grade
+Physics,4736.0,Female,2006,Standard Grade
 French,18150.0,Male,2003,Standard Grade
 Mathematics,30068.0,Male,2003,Standard Grade
 Biology,6631.0,Male,2003,Standard Grade
@@ -113,6 +123,16 @@ Biology,6478.0,Female,2002,Higher
 Chemistry,4821.0,Female,2002,Higher
 Physics,2694.0,Female,2002,Higher
 Computing,1185.0,Female,2002,Higher
+French,998.0,Male,2006,Higher
+Mathematics,9615.0,Male,2006,Higher
+Biology,3018.0,Male,2006,Higher
+Chemistry,4693.0,Male,2006,Higher
+Physics,6196.0,Male,2006,Higher
+French,3294.0,Female,2006,Higher
+Mathematics,9008.0,Female,2006,Higher
+Biology,6026.0,Female,2006,Higher
+Chemistry,4475.0,Female,2006,Higher
+Physics,2421.0,Female,2006,Higher
 French,1113.0,Male,2003,Higher
 Mathematics,10356.0,Male,2003,Higher
 Biology,2795.0,Male,2003,Higher
@@ -185,6 +205,18 @@ Biology,293.0,Female,2001,Advanced Higher
 Chemistry,323.0,Female,2001,Advanced Higher
 Physics,225.0,Female,2001,Advanced Higher
 Computing,17.0,Female,2001,Advanced Higher
+French,150.0,Male,2006,Advanced Higher
+Mathematics,1596.0,Male,2006,Advanced Higher
+Biology,596.0,Male,2006,Advanced Higher
+Chemistry,1009.0,Male,2006,Advanced Higher
+Physics,1124.0,Male,2006,Advanced Higher
+Computing,391.0,Male,2006,Advanced Higher
+French,492.0,Female,2006,Advanced Higher
+Mathematics,1002.0,Female,2006,Advanced Higher
+Biology,1290.0,Female,2006,Advanced Higher
+Chemistry,1007.0,Female,2006,Advanced Higher
+Physics,313.0,Female,2006,Advanced Higher
+Computing,59.0,Female,2006,Advanced Higher
 French,116.0,Male,2003,Advanced Higher
 Mathematics,1562.0,Male,2003,Advanced Higher
 Biology,449.0,Male,2003,Advanced Higher
