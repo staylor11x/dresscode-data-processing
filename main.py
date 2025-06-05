@@ -5,7 +5,7 @@ from utils import processing
 subjects_to_include = [
     "Biology", "Chemistry", "Computing",
     "English and Communication", "French",
-    "Mathematics", "Physics"
+    "Mathematics", "Physics","English"
 ]
 
 sheet_configs = [
