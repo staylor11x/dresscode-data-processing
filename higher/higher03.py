@@ -3,8 +3,8 @@ import pandas as pd
 import xlwings as xw
 
 # === CONFIGURATION ===
-folder_path = r"C:\Users\scott\OneDrive\Employment\JP Morgan\dressCode\Raw Data 2000 to 2005\Higher"
-sheet_names = ["NH4a", "NH4b"]  # Process both sheets
+folder_path = r"C:\Users\scott\OneDrive\Employment\JP Morgan\dressCode\Raw Data 2000 to 2005\Higher\2003-2005"
+sheet_names = ["NH5a", "NH5b"]  # Process both sheets
 subjects_to_include = [
     "Biology", "Chemistry", "Computing",
     "English and Communication", "French",
