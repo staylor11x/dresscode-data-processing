@@ -9,13 +9,13 @@ subjects_to_include = [
 ]
 
 sheet_configs = [
-    {"level": "Standard Grade", "folder": r"C:\Users\scott\OneDrive\Employment\JP Morgan\dressCode\Raw Data 2000 to 2005\Standard Grade\SG", "sheets": ["SG5a", "SG5b"]},
-    {"level": "Standard Grade", "folder": r"C:\Users\scott\OneDrive\Employment\JP Morgan\dressCode\Raw Data 2000 to 2005\Standard Grade\IM2", "sheets": ["IB4a", "IB4b"]},
-    {"level": "Higher", "folder": r"C:\Users\scott\OneDrive\Employment\JP Morgan\dressCode\Raw Data 2000 to 2005\Higher\2000-2002", "sheets": ["NH4a", "NH4b"]},
-    {"level": "Higher", "folder": r"C:\Users\scott\OneDrive\Employment\JP Morgan\dressCode\Raw Data 2000 to 2005\Higher\2003-2005", "sheets": ["NH5a", "NH5b"]},
-    {"level": "Advanced Higher", "folder": r"C:\Users\scott\OneDrive\Employment\JP Morgan\dressCode\Raw Data 2000 to 2005\Advanced Higher\2000-2000", "sheets": ["CS3a", "CS3b"]},
-    {"level": "Advanced Higher", "folder": r"C:\Users\scott\OneDrive\Employment\JP Morgan\dressCode\Raw Data 2000 to 2005\Advanced Higher\2001-2002", "sheets": ["AH4a", "AH4b"]},
-    {"level": "Advanced Higher", "folder": r"C:\Users\scott\OneDrive\Employment\JP Morgan\dressCode\Raw Data 2000 to 2005\Advanced Higher\2003-2005", "sheets": ["AH5a", "AH5b"]},
+    {"level": "Standard Grade", "folder": r"data\Standard Grade\SG", "sheets": ["SG5a", "SG5b"]},
+    {"level": "Standard Grade", "folder": r"data\Standard Grade\IM2", "sheets": ["IB4a", "IB4b"]},
+    {"level": "Higher", "folder": r"data\Higher\2000-2002", "sheets": ["NH4a", "NH4b"]},
+    {"level": "Higher", "folder": r"data\Higher\2003-2005", "sheets": ["NH5a", "NH5b"]},
+    {"level": "Advanced Higher", "folder": r"data\Advanced Higher\2000-2000", "sheets": ["CS3a", "CS3b"]},
+    {"level": "Advanced Higher", "folder": r"data\Advanced Higher\2001-2002", "sheets": ["AH4a", "AH4b"]},
+    {"level": "Advanced Higher", "folder": r"data\Advanced Higher\2003-2005", "sheets": ["AH5a", "AH5b"]},
 ]
 
 # === PROCESSING ===
