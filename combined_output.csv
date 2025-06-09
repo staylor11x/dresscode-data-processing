@@ -11,6 +11,18 @@ Mathematics,26692.0,Female,2006,Standard Grade
 Biology,16007.0,Female,2006,Standard Grade
 Chemistry,10490.0,Female,2006,Standard Grade
 Physics,4736.0,Female,2006,Standard Grade
+English,27168.0,Male,2009,Standard Grade
+French,12853.0,Male,2009,Standard Grade
+Mathematics,23724.0,Male,2009,Standard Grade
+Biology,6896.0,Male,2009,Standard Grade
+Chemistry,9549.0,Male,2009,Standard Grade
+Physics,10530.0,Male,2009,Standard Grade
+English,26761.0,Female,2009,Standard Grade
+French,15134.0,Female,2009,Standard Grade
+Mathematics,23058.0,Female,2009,Standard Grade
+Biology,14133.0,Female,2009,Standard Grade
+Chemistry,9926.0,Female,2009,Standard Grade
+Physics,4250.0,Female,2009,Standard Grade
 English,30609.0,Male,2003,Standard Grade
 French,18150.0,Male,2003,Standard Grade
 Mathematics,30068.0,Male,2003,Standard Grade
@@ -181,6 +193,18 @@ Biology,6125.0,Female,2003,Higher
 Chemistry,4664.0,Female,2003,Higher
 Physics,2683.0,Female,2003,Higher
 Computing,1153.0,Female,2003,Higher
+English,11445.0,Male,2009,Higher
+French,1163.0,Male,2009,Higher
+Mathematics,10145.0,Male,2009,Higher
+Biology,3238.0,Male,2009,Higher
+Chemistry,4813.0,Male,2009,Higher
+Physics,6446.0,Male,2009,Higher
+English,16994.0,Female,2009,Higher
+French,3414.0,Female,2009,Higher
+Mathematics,9493.0,Female,2009,Higher
+Biology,5869.0,Female,2009,Higher
+Chemistry,4769.0,Female,2009,Higher
+Physics,2556.0,Female,2009,Higher
 English,12101.0,Male,2004,Higher
 French,1132.0,Male,2004,Higher
 Mathematics,10233.0,Male,2004,Higher
@@ -299,6 +323,20 @@ Biology,1180.0,Female,2003,Advanced Higher
 Chemistry,896.0,Female,2003,Advanced Higher
 Physics,273.0,Female,2003,Advanced Higher
 Computing,73.0,Female,2003,Advanced Higher
+English,518.0,Male,2009,Advanced Higher
+French,165.0,Male,2009,Advanced Higher
+Mathematics,1801.0,Male,2009,Advanced Higher
+Biology,748.0,Male,2009,Advanced Higher
+Chemistry,1131.0,Male,2009,Advanced Higher
+Physics,1230.0,Male,2009,Advanced Higher
+Computing,346.0,Male,2009,Advanced Higher
+English,1072.0,Female,2009,Advanced Higher
+French,545.0,Female,2009,Advanced Higher
+Mathematics,1226.0,Female,2009,Advanced Higher
+Biology,1347.0,Female,2009,Advanced Higher
+Chemistry,1052.0,Female,2009,Advanced Higher
+Physics,320.0,Female,2009,Advanced Higher
+Computing,65.0,Female,2009,Advanced Higher
 English,540.0,Male,2004,Advanced Higher
 French,152.0,Male,2004,Advanced Higher
 Mathematics,1455.0,Male,2004,Advanced Higher
