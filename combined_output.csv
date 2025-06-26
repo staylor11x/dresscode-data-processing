@@ -137,6 +137,30 @@ Mathematics,21884.0,Female,2010,Standard Grade
 Biology,13801.0,Female,2010,Standard Grade
 Chemistry,9697.0,Female,2010,Standard Grade
 Physics,4243.0,Female,2010,Standard Grade
+English,25551.0,Male,2011,Standard Grade
+French,10702.0,Male,2011,Standard Grade
+Mathematics,21756.0,Male,2011,Standard Grade
+Biology,6880.0,Male,2011,Standard Grade
+Chemistry,9377.0,Male,2011,Standard Grade
+Physics,10266.0,Male,2011,Standard Grade
+English,24749.0,Female,2011,Standard Grade
+French,12846.0,Female,2011,Standard Grade
+Mathematics,20900.0,Female,2011,Standard Grade
+Biology,13435.0,Female,2011,Standard Grade
+Chemistry,9644.0,Female,2011,Standard Grade
+Physics,4176.0,Female,2011,Standard Grade
+English,24898.0,Male,2012,Standard Grade
+French,9813.0,Male,2012,Standard Grade
+Mathematics,20792.0,Male,2012,Standard Grade
+Biology,7128.0,Male,2012,Standard Grade
+Chemistry,9162.0,Male,2012,Standard Grade
+Physics,10018.0,Male,2012,Standard Grade
+English,24195.0,Female,2012,Standard Grade
+French,12209.0,Female,2012,Standard Grade
+Mathematics,20089.0,Female,2012,Standard Grade
+Biology,13209.0,Female,2012,Standard Grade
+Chemistry,9585.0,Female,2012,Standard Grade
+Physics,4209.0,Female,2012,Standard Grade
 English and Communication,2216.0,Male,2000,Higher
 French,925.0,Male,2000,Higher
 Mathematics,10342.0,Male,2000,Higher
@@ -283,16 +307,44 @@ Biology,5926.0,Female,2010,Higher
 Chemistry,5059.0,Female,2010,Higher
 Physics,2474.0,Female,2010,Higher
 Computing,1043.0,Female,2010,Higher
-English,504.0,None,2000,Advanced Higher
-French,83.0,None,2000,Advanced Higher
-Biology,381.0,None,2000,Advanced Higher
-Chemistry,749.0,None,2000,Advanced Higher
-Physics,862.0,None,2000,Advanced Higher
-English,1106.0,None,2000,Advanced Higher
-French,327.0,None,2000,Advanced Higher
-Biology,876.0,None,2000,Advanced Higher
-Chemistry,811.0,None,2000,Advanced Higher
-Physics,243.0,None,2000,Advanced Higher
+English,12201.0,Male,2011,Higher
+French,1084.0,Male,2011,Higher
+Mathematics,10842.0,Male,2011,Higher
+Biology,3454.0,Male,2011,Higher
+Chemistry,5143.0,Male,2011,Higher
+Physics,6768.0,Male,2011,Higher
+Computing,3159.0,Male,2011,Higher
+English,17867.0,Female,2011,Higher
+French,3270.0,Female,2011,Higher
+Mathematics,9710.0,Female,2011,Higher
+Biology,6317.0,Female,2011,Higher
+Chemistry,5150.0,Female,2011,Higher
+Physics,2679.0,Female,2011,Higher
+Computing,969.0,Female,2011,Higher
+English,12202.0,Male,2012,Higher
+French,1145.0,Male,2012,Higher
+Mathematics,10709.0,Male,2012,Higher
+Biology,3437.0,Male,2012,Higher
+Chemistry,5282.0,Male,2012,Higher
+Physics,6516.0,Male,2012,Higher
+Computing,3106.0,Male,2012,Higher
+English,17519.0,Female,2012,Higher
+French,3546.0,Female,2012,Higher
+Mathematics,9857.0,Female,2012,Higher
+Biology,6117.0,Female,2012,Higher
+Chemistry,5082.0,Female,2012,Higher
+Physics,2655.0,Female,2012,Higher
+Computing,922.0,Female,2012,Higher
+English,504.0,,2000,Advanced Higher
+French,83.0,,2000,Advanced Higher
+Biology,381.0,,2000,Advanced Higher
+Chemistry,749.0,,2000,Advanced Higher
+Physics,862.0,,2000,Advanced Higher
+English,1106.0,,2000,Advanced Higher
+French,327.0,,2000,Advanced Higher
+Biology,876.0,,2000,Advanced Higher
+Chemistry,811.0,,2000,Advanced Higher
+Physics,243.0,,2000,Advanced Higher
 English and Communication,363.0,Male,2002,Advanced Higher
 French,114.0,Male,2002,Advanced Higher
 Mathematics,1531.0,Male,2002,Advanced Higher
@@ -433,3 +485,71 @@ Biology,1423.0,Female,2010,Advanced Higher
 Chemistry,1075.0,Female,2010,Advanced Higher
 Physics,406.0,Female,2010,Advanced Higher
 Computing,70.0,Female,2010,Advanced Higher
+English,555.0,Male,2011,Advanced Higher
+French,155.0,Male,2011,Advanced Higher
+Mathematics,1895.0,Male,2011,Advanced Higher
+Biology,853.0,Male,2011,Advanced Higher
+Chemistry,1272.0,Male,2011,Advanced Higher
+Physics,1420.0,Male,2011,Advanced Higher
+Computing,381.0,Male,2011,Advanced Higher
+English,1306.0,Female,2011,Advanced Higher
+French,536.0,Female,2011,Advanced Higher
+Mathematics,1203.0,Female,2011,Advanced Higher
+Biology,1435.0,Female,2011,Advanced Higher
+Chemistry,1200.0,Female,2011,Advanced Higher
+Physics,337.0,Female,2011,Advanced Higher
+Computing,80.0,Female,2011,Advanced Higher
+English,528.0,Male,2012,Advanced Higher
+French,155.0,Male,2012,Advanced Higher
+Mathematics,2024.0,Male,2012,Advanced Higher
+Biology,842.0,Male,2012,Advanced Higher
+Chemistry,1271.0,Male,2012,Advanced Higher
+Physics,1521.0,Male,2012,Advanced Higher
+Computing,395.0,Male,2012,Advanced Higher
+English,1166.0,Female,2012,Advanced Higher
+French,491.0,Female,2012,Advanced Higher
+Mathematics,1215.0,Female,2012,Advanced Higher
+Biology,1575.0,Female,2012,Advanced Higher
+Chemistry,1225.0,Female,2012,Advanced Higher
+Physics,396.0,Female,2012,Advanced Higher
+Computing,65.0,Female,2012,Advanced Higher
+English,23052.0,Male,2013,Standard Grade
+French,9427.0,Male,2013,Standard Grade
+Mathematics,19532.0,Male,2013,Standard Grade
+Biology,6998.0,Male,2013,Standard Grade
+Chemistry,9346.0,Male,2013,Standard Grade
+Physics,9983.0,Male,2013,Standard Grade
+English,22513.0,Female,2013,Standard Grade
+French,11719.0,Female,2013,Standard Grade
+Mathematics,19153.0,Female,2013,Standard Grade
+Biology,13278.0,Female,2013,Standard Grade
+Chemistry,9439.0,Female,2013,Standard Grade
+Physics,4195.0,Female,2013,Standard Grade
+English,12398.0,Male,2013,Higher
+French,1018.0,Male,2013,Higher
+Mathematics,10743.0,Male,2013,Higher
+Biology,3628.0,Male,2013,Higher
+Chemistry,4946.0,Male,2013,Higher
+Physics,6219.0,Male,2013,Higher
+Computing,3097.0,Male,2013,Higher
+English,18038.0,Female,2013,Higher
+French,3221.0,Female,2013,Higher
+Mathematics,9922.0,Female,2013,Higher
+Biology,6343.0,Female,2013,Higher
+Chemistry,5058.0,Female,2013,Higher
+Physics,2574.0,Female,2013,Higher
+Computing,892.0,Female,2013,Higher
+English,559.0,Male,2013,Advanced Higher
+French,159.0,Male,2013,Advanced Higher
+Mathematics,2060.0,Male,2013,Advanced Higher
+Biology,830.0,Male,2013,Advanced Higher
+Chemistry,1324.0,Male,2013,Advanced Higher
+Physics,1454.0,Male,2013,Advanced Higher
+Computing,373.0,Male,2013,Advanced Higher
+English,1184.0,Female,2013,Advanced Higher
+French,514.0,Female,2013,Advanced Higher
+Mathematics,1254.0,Female,2013,Advanced Higher
+Biology,1628.0,Female,2013,Advanced Higher
+Chemistry,1221.0,Female,2013,Advanced Higher
+Physics,413.0,Female,2013,Advanced Higher
+Computing,62.0,Female,2013,Advanced Higher
