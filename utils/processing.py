@@ -3,12 +3,12 @@ import pandas as pd
 from utils import readexcel
 from utils import cache
 
-def process_sheet_with_params(folder_path, sheet_names, subjects_to_include, level, processed_cache):
+def process_sheet_with_params(c, subjects_to_include, processed_cache):
     combined_df = pd.DataFrame()
 
-    for filename in os.listdir(folder_path):
+    for filename in os.listdir(c.folder):
         if filename.endswith((".xls", ".xlsx")):
-            file_path = os.path.join(folder_path, filename)
+            file_path = os.path.join(c.folder, filename)
 
             if cache.was_processed(processed_cache, file_path):
                 print(f"🔄 Skipping already processed file: {filename}")
@@ -16,7 +16,7 @@ def process_sheet_with_params(folder_path, sheet_names, subjects_to_include, lev
 
             print(f"\nProcessing file: {filename}")
 
-            for sheet_name in sheet_names:
+            for sheet_name in c.sheets:
                 print(f"Reading sheet: {sheet_name}")
                 df = readexcel.read_sheet_with_xlwings(file_path, sheet_name)
 
@@ -25,11 +25,11 @@ def process_sheet_with_params(folder_path, sheet_names, subjects_to_include, lev
                     continue
 
                 try:
-                    year_cell = str(df.iat[0, 0])
+                    year_cell = str(df.iat[c.year_coords[0], c.year_coords[1]])
                     year = year_cell.split(",")[-1].strip()
 
-                    gender_cell = str(df.iat[2, 0])
-                    gender = gender_cell.split()[0].capitalize()
+                    gender_cell = str(df.iat[c.gender_coords[0], c.gender_coords[1]])
+                    gender =gender_cell.split()[0].capitalize()
 
                     df_filtered = (
                         df.iloc[3:, [0, 1]]
@@ -40,7 +40,7 @@ def process_sheet_with_params(folder_path, sheet_names, subjects_to_include, lev
                     df_filtered = df_filtered[df_filtered["Subject"].isin(subjects_to_include)]
                     df_filtered["Gender"] = gender
                     df_filtered["Year"] = year
-                    df_filtered["Level"] = level
+                    df_filtered["Level"] = c.level
 
                     combined_df = pd.concat([combined_df, df_filtered], ignore_index=True)
 
