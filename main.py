@@ -10,6 +10,10 @@ subjects_to_include = [
     "Mathematics", "Physics","English"
 ]
 
+rows_to_exclude = [
+    "SUBJECT","Totals","as percentages"," - as percentages"
+]
+
 OUTPUT_FILE = "combined_output.csv"
 OUTPUT_DIR = "output"
 processed_cache = cache.load_cache()
@@ -34,14 +38,14 @@ sheet_configs = [
 
 # === PROCESSING ===
 for config in sheet_configs:
-    processing.process_file(
+    df = processing.process_file(
         config,
-        subjects_to_include,
         processed_cache, 
-        OUTPUT_DIR
+        OUTPUT_DIR,
+        rows_to_exclude
     )
 
-   # combined_df = pd.concat([combined_df, df], ignore_index=True)
+    combined_df = pd.concat([combined_df, df], ignore_index=True)
 
 # === APPEND TO EXISTING OUTPUT (IF ANY) ===
 if os.path.exists(OUTPUT_FILE):
@@ -52,11 +56,11 @@ if os.path.exists(OUTPUT_FILE):
         print(f"⚠️  Output file '{OUTPUT_FILE}' exists but is empty. Proceeding with new data only.")
 
 
-# === OPTIONAL: DE-DUPLICATE ===
-combined_df.drop_duplicates(
-    subset=["Year", "Gender", "Subject", "Level", "Entries"],
-    inplace=True
-)
+# # === OPTIONAL: DE-DUPLICATE ===
+# combined_df.drop_duplicates(
+#     subset=["Year", "Gender", "Subject", "Level", "Entries"],
+#     inplace=True
+# )
 
 # === SAVE OUTPUT ===
 combined_df.to_csv(OUTPUT_FILE, index=False)

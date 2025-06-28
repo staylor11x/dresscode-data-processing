@@ -4,8 +4,10 @@ from utils import readexcel
 from utils import cache
 
 # Takes in one excel file and returns the processed output of all the included sheets
-def process_file(c, subjects_to_include, processed_cache, output_dir):
+def process_file(c, processed_cache, output_dir, rows_to_exclude):
 
+    overall_output_df = pd.DataFrame()
+    
     for filename in os.listdir(c.folder):
         combined_df = pd.DataFrame()
         if filename.endswith((".xls", "xlsx")):
@@ -16,13 +18,17 @@ def process_file(c, subjects_to_include, processed_cache, output_dir):
                 continue
             
             print(f"\nProcessing file: {filename}")
-            processed_sheet, year = process_sheet(c, subjects_to_include, file_path, filename)
+            processed_sheet, year = process_sheet(c, file_path, filename, rows_to_exclude)
             
             combined_df = pd.concat([combined_df, processed_sheet], ignore_index=True)
+            overall_output_df = pd.concat([combined_df, processed_sheet], ignore_index=True)
         save_to_file(combined_df, c, output_dir, year)
+        cache.mark_processed(processed_cache, file_path)
+
+    return overall_output_df
 
 # Takes in one sheet and returns the processed output
-def process_sheet(c, subjects_to_include, file_path, filename):
+def process_sheet(c, file_path, filename, rows_to_exclude):
     
     combined_df = pd.DataFrame()    # male and females
     
@@ -48,7 +54,7 @@ def process_sheet(c, subjects_to_include, file_path, filename):
                 raise ValueError(f"Could not extract valid year from cell: '{year_cell}'")
             
             gender_cell = str(df.iat[c.gender_coords[0], c.gender_coords[1]])
-            gender =gender_cell.split()[0].capitalize()
+            gender = gender_cell.split()[0].capitalize()
             
             df_filtered = (
                 df.iloc[3:, [0, 1]]
@@ -56,7 +62,9 @@ def process_sheet(c, subjects_to_include, file_path, filename):
                 .rename(columns={0: "Subject", 1: "Entries"})
             )
             
-            df_filtered = df_filtered[df_filtered["Subject"].isin(subjects_to_include)]
+            # drop rows that are not subjects
+            df_filtered = df_filtered[~df_filtered["Subject"].isin(rows_to_exclude)]
+            
             df_filtered["Gender"] = gender
             df_filtered["Year"] = year
             df_filtered["Level"] = c.level
