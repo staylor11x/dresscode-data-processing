@@ -1,14 +1,9 @@
 import os
 import pandas as pd
 from utils import processing, cache
-from sheet_config import SheetConfig
+from model.sheet_config import SheetConfig
 
 # === OVERALL CONFIG ===
-subjects_to_include = [
-    "Biology", "Chemistry", "Computing",
-    "English and Communication", "French",
-    "Mathematics", "Physics","English"
-]
 
 rows_to_exclude = [
     "SUBJECT","Totals","as percentages"," - as percentages"
@@ -35,7 +30,6 @@ sheet_configs = [
     # SheetConfig("Advanced_Higher", r"data\Advanced Higher\2011-2012", ["AH5a", "AH5b"], gender_cell="A6", year_cell="A3"),
 ]
 
-
 # === PROCESSING ===
 for config in sheet_configs:
     df = processing.process_file(
@@ -56,11 +50,11 @@ if os.path.exists(OUTPUT_FILE):
         print(f"⚠️  Output file '{OUTPUT_FILE}' exists but is empty. Proceeding with new data only.")
 
 
-# # === OPTIONAL: DE-DUPLICATE ===
-# combined_df.drop_duplicates(
-#     subset=["Year", "Gender", "Subject", "Level", "Entries"],
-#     inplace=True
-# )
+# === OPTIONAL: DE-DUPLICATE ===
+combined_df.drop_duplicates(
+    subset=["Year", "Gender", "Subject", "Level", "Entries"],
+    inplace=True
+)
 
 # === SAVE OUTPUT ===
 combined_df.to_csv(OUTPUT_FILE, index=False)
