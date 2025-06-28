@@ -34,14 +34,14 @@ sheet_configs = [
 
 # === PROCESSING ===
 for config in sheet_configs:
-    df = processing.process_sheet_with_params(
+    processing.process_file(
         config,
         subjects_to_include,
-        processed_cache,
+        processed_cache, 
         OUTPUT_DIR
     )
 
-    combined_df = pd.concat([combined_df, df], ignore_index=True)
+   # combined_df = pd.concat([combined_df, df], ignore_index=True)
 
 # === APPEND TO EXISTING OUTPUT (IF ANY) ===
 if os.path.exists(OUTPUT_FILE):
