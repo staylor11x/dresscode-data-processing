@@ -28,6 +28,18 @@ def process_sheet_with_params(c, subjects_to_include, processed_cache, output_di
                     year_cell = str(df.iat[c.year_coords[0], c.year_coords[1]])
                     year = year_cell.split(",")[-1].strip()
 
+                    year_cell = str(df.iat[c.year_coords[0], c.year_coords[1]])
+                    year_text = year_cell.split(",")[-1].strip()
+
+                    # Ensure the year is a 4-digit number
+                    import re
+                    match = re.search(r"\b(19|20)\d{2}\b", year_text)
+                    if match:
+                        year = int(match.group(0))
+                    else:
+                        raise ValueError(f"Could not extract valid year from cell: '{year_cell}'")
+
+
                     gender_cell = str(df.iat[c.gender_coords[0], c.gender_coords[1]])
                     gender =gender_cell.split()[0].capitalize()
 
@@ -42,25 +54,25 @@ def process_sheet_with_params(c, subjects_to_include, processed_cache, output_di
                     df_filtered["Year"] = year
                     df_filtered["Level"] = c.level
 
-                    # Construct output file name
-                    output_filename = f"{c.level}_{year}.xlsx"
-                    output_path = os.path.join(output_dir, output_filename)
-
-                    # Save or append to file
-                    if os.path.exists(output_path):
-                        existing_df = pd.read_excel(output_path)
-                        combined = pd.concat([existing_df, df_filtered], ignore_index=True)
-                    else:
-                        combined = df_filtered
-
-                    combined.to_excel(output_path, index=False)
-                    print(f"✅ Saved to {output_filename}")
-
                     combined_df = pd.concat([combined_df, df_filtered], ignore_index=True)
 
                 except Exception as e:
                     print(f"Error parsing {sheet_name} in {filename}: {e}")
-
-            cache.mark_processed(processed_cache, file_path)
+                    
+                # Construct output file name
+                safe_level = c.level.replace(" ", "_")
+                output_filename = f"{safe_level}_{year}.xlsx"
+                output_path = os.path.join(output_dir, output_filename)
+    
+                # Save or append to file
+                if os.path.exists(output_path):
+                    existing_df = pd.read_excel(output_path)
+                    combined = pd.concat([existing_df, df_filtered], ignore_index=True)
+                else:
+                    combined = df_filtered
+                    combined.to_excel(output_path, index=False)
+                    print(f"✅ Saved to {output_filename}")
+    
+                cache.mark_processed(processed_cache, file_path)
 
     return combined_df
