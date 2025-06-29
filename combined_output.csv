@@ -1,4 +1,256 @@
 Subject,Entries,Gender,Year,Level
+English and Communication,1566.0,Male,2000,Intermediate_2
+French,127.0,Male,2000,Intermediate_2
+Gaelic (Learners),3.0,Male,2000,Intermediate_2
+Gaidhlig,3.0,Male,2000,Intermediate_2
+German,57.0,Male,2000,Intermediate_2
+Italian,14.0,Male,2000,Intermediate_2
+Latin,2.0,Male,2000,Intermediate_2
+Spanish,52.0,Male,2000,Intermediate_2
+Accounting and Finance,149.0,Male,2000,Intermediate_2
+Mathematics,4427.0,Male,2000,Intermediate_2
+Biology,775.0,Male,2000,Intermediate_2
+Biotechnology,15.0,Male,2000,Intermediate_2
+Chemistry,588.0,Male,2000,Intermediate_2
+Geology,13.0,Male,2000,Intermediate_2
+Managing Environmental Resources,4.0,Male,2000,Intermediate_2
+Physics,1152.0,Male,2000,Intermediate_2
+Crop Establishment,7.0,Male,2000,Intermediate_2
+Fish Husbandry,6.0,Male,2000,Intermediate_2
+Investigating Fish Rearing Systems,6.0,Male,2000,Intermediate_2
+Investigating the Natural Environment,6.0,Male,2000,Intermediate_2
+Livestock Production,7.0,Male,2000,Intermediate_2
+Classical Studies,8.0,Male,2000,Intermediate_2
+Economics,54.0,Male,2000,Intermediate_2
+Geography,509.0,Male,2000,Intermediate_2
+History,515.0,Male,2000,Intermediate_2
+Modern Studies,328.0,Male,2000,Intermediate_2
+Philosophy,14.0,Male,2000,Intermediate_2
+Politics,4.0,Male,2000,Intermediate_2
+Psychology,26.0,Male,2000,Intermediate_2
+"Religious, Moral and Philosophical Studies",38.0,Male,2000,Intermediate_2
+Sociology,31.0,Male,2000,Intermediate_2
+Administration,179.0,Male,2000,Intermediate_2
+Business Management,323.0,Male,2000,Intermediate_2
+Care,11.0,Male,2000,Intermediate_2
+Care Issues for Society,1.0,Male,2000,Intermediate_2
+Computing,534.0,Male,2000,Intermediate_2
+Construction Craft Skills,15.0,Male,2000,Intermediate_2
+Construction Industry Practice,14.0,Male,2000,Intermediate_2
+Craft and Design,445.0,Male,2000,Intermediate_2
+Electronic and Electrical Fundamentals,46.0,Male,2000,Intermediate_2
+Engineering Craft Skills,100.0,Male,2000,Intermediate_2
+Graphic Communication,457.0,Male,2000,Intermediate_2
+Health and Safety in Care Settings,,Male,2000,Intermediate_2
+Home Economics - Fashion and Textile Technology,1.0,Male,2000,Intermediate_2
+Home Economics - Health and Food Technology,42.0,Male,2000,Intermediate_2
+Home Economics - Lifestyle and Consumer Technology,5.0,Male,2000,Intermediate_2
+Hospitality - General Operations,84.0,Male,2000,Intermediate_2
+Hospitality - Practical Cookery,350.0,Male,2000,Intermediate_2
+Hospitality - Professional Cookery,85.0,Male,2000,Intermediate_2
+Hospitality - Reception and Accommodation Operations,,Male,2000,Intermediate_2
+Information Systems,1286.0,Male,2000,Intermediate_2
+Structures,5.0,Male,2000,Intermediate_2
+Technological Studies,172.0,Male,2000,Intermediate_2
+Travel and Tourism,70.0,Male,2000,Intermediate_2
+Woodworking Skills,705.0,Male,2000,Intermediate_2
+Art and Design,258.0,Male,2000,Intermediate_2
+Drama,57.0,Male,2000,Intermediate_2
+Media Studies,88.0,Male,2000,Intermediate_2
+Music,218.0,Male,2000,Intermediate_2
+Physical Education,1069.0,Male,2000,Intermediate_2
+English and Communication,1634.0,Female,2000,Intermediate_2
+French,461.0,Female,2000,Intermediate_2
+Gaelic (Learners),12.0,Female,2000,Intermediate_2
+Gaidhlig,4.0,Female,2000,Intermediate_2
+German,143.0,Female,2000,Intermediate_2
+Italian,37.0,Female,2000,Intermediate_2
+Latin,12.0,Female,2000,Intermediate_2
+Spanish,168.0,Female,2000,Intermediate_2
+Accounting and Finance,239.0,Female,2000,Intermediate_2
+Mathematics,4402.0,Female,2000,Intermediate_2
+Biology,1767.0,Female,2000,Intermediate_2
+Biotechnology,27.0,Female,2000,Intermediate_2
+Chemistry,630.0,Female,2000,Intermediate_2
+Geology,6.0,Female,2000,Intermediate_2
+Managing Environmental Resources,,Female,2000,Intermediate_2
+Physics,451.0,Female,2000,Intermediate_2
+Crop Establishment,2.0,Female,2000,Intermediate_2
+Fish Husbandry,,Female,2000,Intermediate_2
+Investigating Fish Rearing Systems,,Female,2000,Intermediate_2
+Investigating the Natural Environment,2.0,Female,2000,Intermediate_2
+Livestock Production,2.0,Female,2000,Intermediate_2
+Classical Studies,16.0,Female,2000,Intermediate_2
+Economics,64.0,Female,2000,Intermediate_2
+Geography,324.0,Female,2000,Intermediate_2
+History,591.0,Female,2000,Intermediate_2
+Modern Studies,508.0,Female,2000,Intermediate_2
+Philosophy,33.0,Female,2000,Intermediate_2
+Politics,4.0,Female,2000,Intermediate_2
+Psychology,92.0,Female,2000,Intermediate_2
+"Religious, Moral and Philosophical Studies",95.0,Female,2000,Intermediate_2
+Sociology,52.0,Female,2000,Intermediate_2
+Administration,773.0,Female,2000,Intermediate_2
+Business Management,470.0,Female,2000,Intermediate_2
+Care,98.0,Female,2000,Intermediate_2
+Care Issues for Society,13.0,Female,2000,Intermediate_2
+Computing,229.0,Female,2000,Intermediate_2
+Construction Craft Skills,,Female,2000,Intermediate_2
+Construction Industry Practice,,Female,2000,Intermediate_2
+Craft and Design,67.0,Female,2000,Intermediate_2
+Electronic and Electrical Fundamentals,,Female,2000,Intermediate_2
+Engineering Craft Skills,10.0,Female,2000,Intermediate_2
+Graphic Communication,166.0,Female,2000,Intermediate_2
+Health and Safety in Care Settings,1.0,Female,2000,Intermediate_2
+Home Economics - Fashion and Textile Technology,10.0,Female,2000,Intermediate_2
+Home Economics - Health and Food Technology,286.0,Female,2000,Intermediate_2
+Home Economics - Lifestyle and Consumer Technology,26.0,Female,2000,Intermediate_2
+Hospitality - General Operations,70.0,Female,2000,Intermediate_2
+Hospitality - Practical Cookery,1269.0,Female,2000,Intermediate_2
+Hospitality - Professional Cookery,71.0,Female,2000,Intermediate_2
+Hospitality - Reception and Accommodation Operations,3.0,Female,2000,Intermediate_2
+Information Systems,741.0,Female,2000,Intermediate_2
+Structures,1.0,Female,2000,Intermediate_2
+Technological Studies,10.0,Female,2000,Intermediate_2
+Travel and Tourism,175.0,Female,2000,Intermediate_2
+Woodworking Skills,124.0,Female,2000,Intermediate_2
+Art and Design,337.0,Female,2000,Intermediate_2
+Drama,100.0,Female,2000,Intermediate_2
+Media Studies,86.0,Female,2000,Intermediate_2
+Music,247.0,Female,2000,Intermediate_2
+Physical Education,303.0,Female,2000,Intermediate_2
+Classical Greek,3.0,Male,2001,Intermediate_2
+English and Communication,5927.0,Male,2001,Intermediate_2
+French,243.0,Male,2001,Intermediate_2
+Gaelic (Learners),7.0,Male,2001,Intermediate_2
+Gàidhlig,3.0,Male,2001,Intermediate_2
+German,156.0,Male,2001,Intermediate_2
+Italian,31.0,Male,2001,Intermediate_2
+Latin,17.0,Male,2001,Intermediate_2
+Russian,1.0,Male,2001,Intermediate_2
+Spanish,73.0,Male,2001,Intermediate_2
+Accounting and Finance,209.0,Male,2001,Intermediate_2
+Mathematics,5862.0,Male,2001,Intermediate_2
+Biology,1006.0,Male,2001,Intermediate_2
+Biotechnology,27.0,Male,2001,Intermediate_2
+Chemistry,715.0,Male,2001,Intermediate_2
+Geology,23.0,Male,2001,Intermediate_2
+Managing Environmental Resources,20.0,Male,2001,Intermediate_2
+Physics,1395.0,Male,2001,Intermediate_2
+Amenity Horticulture,10.0,Male,2001,Intermediate_2
+Crop Establishment,5.0,Male,2001,Intermediate_2
+Fish Husbandry,7.0,Male,2001,Intermediate_2
+Investigating Fish Rearing Systems,6.0,Male,2001,Intermediate_2
+Livestock Production,5.0,Male,2001,Intermediate_2
+Plant Propagation,10.0,Male,2001,Intermediate_2
+Classical Studies,12.0,Male,2001,Intermediate_2
+Economics,69.0,Male,2001,Intermediate_2
+Geography,794.0,Male,2001,Intermediate_2
+History,756.0,Male,2001,Intermediate_2
+Modern Studies,522.0,Male,2001,Intermediate_2
+Philosophy,17.0,Male,2001,Intermediate_2
+Psychology,49.0,Male,2001,Intermediate_2
+"Religious, Moral and Philosophical Studies",88.0,Male,2001,Intermediate_2
+Sociology,23.0,Male,2001,Intermediate_2
+Administration,592.0,Male,2001,Intermediate_2
+Business Management,428.0,Male,2001,Intermediate_2
+Care,31.0,Male,2001,Intermediate_2
+Care Issues for Society,12.0,Male,2001,Intermediate_2
+Computing,1314.0,Male,2001,Intermediate_2
+Construction Craft Skills,19.0,Male,2001,Intermediate_2
+Construction Industry Practice,37.0,Male,2001,Intermediate_2
+Craft and Design,511.0,Male,2001,Intermediate_2
+Design,13.0,Male,2001,Intermediate_2
+Electronic and Electrical Fundamentals,64.0,Male,2001,Intermediate_2
+Engineering Craft Skills,157.0,Male,2001,Intermediate_2
+Fabrication and Welding,4.0,Male,2001,Intermediate_2
+Graphic Communication,604.0,Male,2001,Intermediate_2
+Health and Safety in Care Settings,6.0,Male,2001,Intermediate_2
+Home Economics - Fashion and Textile Technology,,Male,2001,Intermediate_2
+Home Economics - Health and Food Technology,35.0,Male,2001,Intermediate_2
+Home Economics - Lifestyle and Consumer Technology,4.0,Male,2001,Intermediate_2
+Hospitality - General Operations,104.0,Male,2001,Intermediate_2
+Hospitality - Practical Cookery,487.0,Male,2001,Intermediate_2
+Hospitality - Professional Cookery,107.0,Male,2001,Intermediate_2
+Information Systems,2161.0,Male,2001,Intermediate_2
+Personal and Social Education,13.0,Male,2001,Intermediate_2
+Selling Overseas Tourist Destinations,6.0,Male,2001,Intermediate_2
+Technological Studies,159.0,Male,2001,Intermediate_2
+Travel and Tourism,171.0,Male,2001,Intermediate_2
+Woodworking Skills,1266.0,Male,2001,Intermediate_2
+Art and Design,712.0,Male,2001,Intermediate_2
+Drama,150.0,Male,2001,Intermediate_2
+Media Studies,185.0,Male,2001,Intermediate_2
+Music,333.0,Male,2001,Intermediate_2
+Fitness and Exercise,4.0,Male,2001,Intermediate_2
+Leading Sports Activities,5.0,Male,2001,Intermediate_2
+Physical Education,1369.0,Male,2001,Intermediate_2
+Classical Greek,7.0,Female,2001,Intermediate_2
+English and Communication,5417.0,Female,2001,Intermediate_2
+French,701.0,Female,2001,Intermediate_2
+Gaelic (Learners),8.0,Female,2001,Intermediate_2
+Gàidhlig,4.0,Female,2001,Intermediate_2
+German,323.0,Female,2001,Intermediate_2
+Italian,102.0,Female,2001,Intermediate_2
+Latin,6.0,Female,2001,Intermediate_2
+Russian,,Female,2001,Intermediate_2
+Spanish,269.0,Female,2001,Intermediate_2
+Accounting and Finance,301.0,Female,2001,Intermediate_2
+Mathematics,5886.0,Female,2001,Intermediate_2
+Biology,2418.0,Female,2001,Intermediate_2
+Biotechnology,39.0,Female,2001,Intermediate_2
+Chemistry,775.0,Female,2001,Intermediate_2
+Geology,5.0,Female,2001,Intermediate_2
+Managing Environmental Resources,20.0,Female,2001,Intermediate_2
+Physics,454.0,Female,2001,Intermediate_2
+Amenity Horticulture,13.0,Female,2001,Intermediate_2
+Crop Establishment,,Female,2001,Intermediate_2
+Fish Husbandry,,Female,2001,Intermediate_2
+Investigating Fish Rearing Systems,,Female,2001,Intermediate_2
+Livestock Production,,Female,2001,Intermediate_2
+Plant Propagation,13.0,Female,2001,Intermediate_2
+Classical Studies,31.0,Female,2001,Intermediate_2
+Economics,77.0,Female,2001,Intermediate_2
+Geography,507.0,Female,2001,Intermediate_2
+History,844.0,Female,2001,Intermediate_2
+Modern Studies,629.0,Female,2001,Intermediate_2
+Philosophy,32.0,Female,2001,Intermediate_2
+Psychology,194.0,Female,2001,Intermediate_2
+"Religious, Moral and Philosophical Studies",187.0,Female,2001,Intermediate_2
+Sociology,97.0,Female,2001,Intermediate_2
+Administration,2238.0,Female,2001,Intermediate_2
+Business Management,607.0,Female,2001,Intermediate_2
+Care,296.0,Female,2001,Intermediate_2
+Care Issues for Society,109.0,Female,2001,Intermediate_2
+Computing,522.0,Female,2001,Intermediate_2
+Construction Craft Skills,,Female,2001,Intermediate_2
+Construction Industry Practice,,Female,2001,Intermediate_2
+Craft and Design,135.0,Female,2001,Intermediate_2
+Design,33.0,Female,2001,Intermediate_2
+Electronic and Electrical Fundamentals,4.0,Female,2001,Intermediate_2
+Engineering Craft Skills,7.0,Female,2001,Intermediate_2
+Fabrication and Welding,,Female,2001,Intermediate_2
+Graphic Communication,223.0,Female,2001,Intermediate_2
+Health and Safety in Care Settings,41.0,Female,2001,Intermediate_2
+Home Economics - Fashion and Textile Technology,41.0,Female,2001,Intermediate_2
+Home Economics - Health and Food Technology,238.0,Female,2001,Intermediate_2
+Home Economics - Lifestyle and Consumer Technology,47.0,Female,2001,Intermediate_2
+Hospitality - General Operations,103.0,Female,2001,Intermediate_2
+Hospitality - Practical Cookery,1545.0,Female,2001,Intermediate_2
+Hospitality - Professional Cookery,97.0,Female,2001,Intermediate_2
+Information Systems,1123.0,Female,2001,Intermediate_2
+Personal and Social Education,22.0,Female,2001,Intermediate_2
+Selling Overseas Tourist Destinations,36.0,Female,2001,Intermediate_2
+Technological Studies,2.0,Female,2001,Intermediate_2
+Travel and Tourism,437.0,Female,2001,Intermediate_2
+Woodworking Skills,247.0,Female,2001,Intermediate_2
+Art and Design,1063.0,Female,2001,Intermediate_2
+Drama,312.0,Female,2001,Intermediate_2
+Media Studies,245.0,Female,2001,Intermediate_2
+Music,382.0,Female,2001,Intermediate_2
+Fitness and Exercise,4.0,Female,2001,Intermediate_2
+Leading Sports Activities,5.0,Female,2001,Intermediate_2
+Physical Education,416.0,Female,2001,Intermediate_2
 English and Communication,7215.0,Male,2002,Intermediate_2
 French,277.0,Male,2002,Intermediate_2
 Gaelic (Learners),5.0,Male,2002,Intermediate_2
@@ -131,1209 +383,3 @@ Music,479.0,Female,2002,Intermediate_2
 Fitness and Exercise,9.0,Female,2002,Intermediate_2
 Leading Sports Activities,1.0,Female,2002,Intermediate_2
 Physical Education,389.0,Female,2002,Intermediate_2
-Classical Greek,4.0,Male,2007,Standard_Grade
-English,30156.0,Male,2007,Standard_Grade
-English - Alternative Communication,,Male,2007,Standard_Grade
-French,15104.0,Male,2007,Standard_Grade
-Gaelic (Learners),193.0,Male,2007,Standard_Grade
-Gaidhlig,87.0,Male,2007,Standard_Grade
-German,4738.0,Male,2007,Standard_Grade
-Italian,159.0,Male,2007,Standard_Grade
-Latin,210.0,Male,2007,Standard_Grade
-Russian,1.0,Male,2007,Standard_Grade
-Spanish,1251.0,Male,2007,Standard_Grade
-Urdu,81.0,Male,2007,Standard_Grade
-Accounting and Finance,1152.0,Male,2007,Standard_Grade
-Mathematics,27324.0,Male,2007,Standard_Grade
-Biology,7116.0,Male,2007,Standard_Grade
-Chemistry,9876.0,Male,2007,Standard_Grade
-Physics,11567.0,Male,2007,Standard_Grade
-Science,2260.0,Male,2007,Standard_Grade
-Classical Studies,151.0,Male,2007,Standard_Grade
-Contemporary Social Studies,64.0,Male,2007,Standard_Grade
-Economics,150.0,Male,2007,Standard_Grade
-Geography,10812.0,Male,2007,Standard_Grade
-History,10507.0,Male,2007,Standard_Grade
-Modern Studies,5830.0,Male,2007,Standard_Grade
-Religious Studies,584.0,Male,2007,Standard_Grade
-Social and Vocational Skills,1557.0,Male,2007,Standard_Grade
-Administration,2980.0,Male,2007,Standard_Grade
-Business Management,3272.0,Male,2007,Standard_Grade
-Computing Studies,10254.0,Male,2007,Standard_Grade
-Craft and Design,10476.0,Male,2007,Standard_Grade
-Graphic Communication,6648.0,Male,2007,Standard_Grade
-Home Economics,1450.0,Male,2007,Standard_Grade
-Technological Studies,1640.0,Male,2007,Standard_Grade
-Art and Design,5938.0,Male,2007,Standard_Grade
-Drama,2186.0,Male,2007,Standard_Grade
-Music,4577.0,Male,2007,Standard_Grade
-Physical Education,12815.0,Male,2007,Standard_Grade
-Subtotals,203170.0,Male,2007,Standard_Grade
-- as percentages,,Male,2007,Standard_Grade
-Gaelic (Learners) (Writing)*,65.0,Male,2007,Standard_Grade
-* Awards in the optional Writing Element for Gaelic (Learners) are made at grades 1 to 4 only.,,Male,2007,Standard_Grade
-Classical Greek,4.0,Female,2007,Standard_Grade
-English,29577.0,Female,2007,Standard_Grade
-English - Alternative Communication,2.0,Female,2007,Standard_Grade
-French,17214.0,Female,2007,Standard_Grade
-Gaelic (Learners),190.0,Female,2007,Standard_Grade
-Gaidhlig,86.0,Female,2007,Standard_Grade
-German,5046.0,Female,2007,Standard_Grade
-Italian,261.0,Female,2007,Standard_Grade
-Latin,250.0,Female,2007,Standard_Grade
-Russian,,Female,2007,Standard_Grade
-Spanish,1672.0,Female,2007,Standard_Grade
-Urdu,68.0,Female,2007,Standard_Grade
-Accounting and Finance,1121.0,Female,2007,Standard_Grade
-Mathematics,26655.0,Female,2007,Standard_Grade
-Biology,15671.0,Female,2007,Standard_Grade
-Chemistry,10202.0,Female,2007,Standard_Grade
-Physics,4373.0,Female,2007,Standard_Grade
-Science,1945.0,Female,2007,Standard_Grade
-Classical Studies,145.0,Female,2007,Standard_Grade
-Contemporary Social Studies,33.0,Female,2007,Standard_Grade
-Economics,94.0,Female,2007,Standard_Grade
-Geography,8380.0,Female,2007,Standard_Grade
-History,10333.0,Female,2007,Standard_Grade
-Modern Studies,8284.0,Female,2007,Standard_Grade
-Religious Studies,1101.0,Female,2007,Standard_Grade
-Social and Vocational Skills,1634.0,Female,2007,Standard_Grade
-Administration,8556.0,Female,2007,Standard_Grade
-Business Management,3319.0,Female,2007,Standard_Grade
-Computing Studies,5786.0,Female,2007,Standard_Grade
-Craft and Design,3159.0,Female,2007,Standard_Grade
-Graphic Communication,3098.0,Female,2007,Standard_Grade
-Home Economics,5835.0,Female,2007,Standard_Grade
-Technological Studies,131.0,Female,2007,Standard_Grade
-Art and Design,11246.0,Female,2007,Standard_Grade
-Drama,4157.0,Female,2007,Standard_Grade
-Music,6024.0,Female,2007,Standard_Grade
-Physical Education,5871.0,Female,2007,Standard_Grade
-Subtotals,201523.0,Female,2007,Standard_Grade
-- as percentages,,Female,2007,Standard_Grade
-Gaelic (Learners) (Writing)*,92.0,Female,2007,Standard_Grade
-* Awards in the optional Writing Element for Gaelic (Learners) are made at grades 1 to 4 only.,,Female,2007,Standard_Grade
-MALE LEARNERS,,Male,2010,Standard_Grade
-TITLE,ENTRIES,Male,2010,Standard_Grade
-Classical Greek,1.0,Male,2010,Standard_Grade
-English,26104.0,Male,2010,Standard_Grade
-English - Alternative Communication,1.0,Male,2010,Standard_Grade
-French,11689.0,Male,2010,Standard_Grade
-Gaelic (Learners),136.0,Male,2010,Standard_Grade
-Gàidhlig,82.0,Male,2010,Standard_Grade
-German,2837.0,Male,2010,Standard_Grade
-Italian,199.0,Male,2010,Standard_Grade
-Latin,205.0,Male,2010,Standard_Grade
-Russian,1.0,Male,2010,Standard_Grade
-Spanish,1201.0,Male,2010,Standard_Grade
-Urdu,62.0,Male,2010,Standard_Grade
-Accounting & Finance,799.0,Male,2010,Standard_Grade
-Mathematics,22106.0,Male,2010,Standard_Grade
-Biology,6769.0,Male,2010,Standard_Grade
-Chemistry,9209.0,Male,2010,Standard_Grade
-Physics,10328.0,Male,2010,Standard_Grade
-Science,1398.0,Male,2010,Standard_Grade
-Classical Studies,165.0,Male,2010,Standard_Grade
-Contemporary Social Studies,23.0,Male,2010,Standard_Grade
-Economics,50.0,Male,2010,Standard_Grade
-Geography,9336.0,Male,2010,Standard_Grade
-History,9613.0,Male,2010,Standard_Grade
-Modern Studies,5424.0,Male,2010,Standard_Grade
-Religious Studies,581.0,Male,2010,Standard_Grade
-Social & Vocational Skills,1349.0,Male,2010,Standard_Grade
-Administration,1677.0,Male,2010,Standard_Grade
-Business Management,2704.0,Male,2010,Standard_Grade
-Computing Studies,7938.0,Male,2010,Standard_Grade
-Craft & Design,9046.0,Male,2010,Standard_Grade
-Graphic Communication,5640.0,Male,2010,Standard_Grade
-Home Economics,1252.0,Male,2010,Standard_Grade
-Technological Studies,1355.0,Male,2010,Standard_Grade
-Art and Design,3858.0,Male,2010,Standard_Grade
-Drama,2147.0,Male,2010,Standard_Grade
-Music,3853.0,Male,2010,Standard_Grade
-Physical Education,11295.0,Male,2010,Standard_Grade
-Subtotal,170433.0,Male,2010,Standard_Grade
-- as percentages,,Male,2010,Standard_Grade
-Gaelic (Learners) (Writing)*,68.0,Male,2010,Standard_Grade
-Total,170501.0,Male,2010,Standard_Grade
-* Awards in the optional Writing Element for Gaelic (Learners) are made at grades 1 to 4 only.,,Male,2010,Standard_Grade
-FEMALE LEARNERS,,Female,2010,Standard_Grade
-TITLE,ENTRIES,Female,2010,Standard_Grade
-Classical Greek,0.0,Female,2010,Standard_Grade
-English,25862.0,Female,2010,Standard_Grade
-English - Alternative Communication,0.0,Female,2010,Standard_Grade
-French,13951.0,Female,2010,Standard_Grade
-Gaelic (Learners),221.0,Female,2010,Standard_Grade
-Gàidhlig,89.0,Female,2010,Standard_Grade
-German,3368.0,Female,2010,Standard_Grade
-Italian,245.0,Female,2010,Standard_Grade
-Latin,192.0,Female,2010,Standard_Grade
-Russian,0.0,Female,2010,Standard_Grade
-Spanish,1806.0,Female,2010,Standard_Grade
-Urdu,56.0,Female,2010,Standard_Grade
-Accounting & Finance,831.0,Female,2010,Standard_Grade
-Mathematics,21884.0,Female,2010,Standard_Grade
-Biology,13801.0,Female,2010,Standard_Grade
-Chemistry,9697.0,Female,2010,Standard_Grade
-Physics,4243.0,Female,2010,Standard_Grade
-Science,1209.0,Female,2010,Standard_Grade
-Classical Studies,143.0,Female,2010,Standard_Grade
-Contemporary Social Studies,12.0,Female,2010,Standard_Grade
-Economics,39.0,Female,2010,Standard_Grade
-Geography,7561.0,Female,2010,Standard_Grade
-History,9815.0,Female,2010,Standard_Grade
-Modern Studies,7068.0,Female,2010,Standard_Grade
-Religious Studies,985.0,Female,2010,Standard_Grade
-Social & Vocational Skills,1395.0,Female,2010,Standard_Grade
-Administration,4899.0,Female,2010,Standard_Grade
-Business Management,2741.0,Female,2010,Standard_Grade
-Computing Studies,4452.0,Female,2010,Standard_Grade
-Craft & Design,2675.0,Female,2010,Standard_Grade
-Graphic Communication,2866.0,Female,2010,Standard_Grade
-Home Economics,4328.0,Female,2010,Standard_Grade
-Technological Studies,108.0,Female,2010,Standard_Grade
-Art and Design,8225.0,Female,2010,Standard_Grade
-Drama,4171.0,Female,2010,Standard_Grade
-Music,4688.0,Female,2010,Standard_Grade
-Physical Education,5149.0,Female,2010,Standard_Grade
-Subtotal,168775.0,Female,2010,Standard_Grade
-- as percentages,,Female,2010,Standard_Grade
-Gaelic (Learners) (Writing)*,150.0,Female,2010,Standard_Grade
-Total,168925.0,Female,2010,Standard_Grade
-* Awards in the optional Writing Element for Gaelic (Learners) are made at grades 1 to 4 only.,,Female,2010,Standard_Grade
-MALE LEARNERS,,Male,2013,Standard_Grade
-TITLE,ENTRIES,Male,2013,Standard_Grade
-English,23052.0,Male,2013,Standard_Grade
-French,9427.0,Male,2013,Standard_Grade
-Gaelic (Learners),136.0,Male,2013,Standard_Grade
-Gàidhlig,78.0,Male,2013,Standard_Grade
-German,2110.0,Male,2013,Standard_Grade
-Italian,84.0,Male,2013,Standard_Grade
-Latin,158.0,Male,2013,Standard_Grade
-Spanish,1616.0,Male,2013,Standard_Grade
-Urdu,63.0,Male,2013,Standard_Grade
-Accounting & Finance,630.0,Male,2013,Standard_Grade
-Mathematics,19532.0,Male,2013,Standard_Grade
-Biology,6998.0,Male,2013,Standard_Grade
-Chemistry,9346.0,Male,2013,Standard_Grade
-Physics,9983.0,Male,2013,Standard_Grade
-Science,1151.0,Male,2013,Standard_Grade
-Classical Studies,88.0,Male,2013,Standard_Grade
-Economics,13.0,Male,2013,Standard_Grade
-Geography,8902.0,Male,2013,Standard_Grade
-History,9596.0,Male,2013,Standard_Grade
-Modern Studies,5861.0,Male,2013,Standard_Grade
-Religious Studies,558.0,Male,2013,Standard_Grade
-Social & Vocational Skills,853.0,Male,2013,Standard_Grade
-Administration,1212.0,Male,2013,Standard_Grade
-Business Management,2621.0,Male,2013,Standard_Grade
-Computing Studies,7273.0,Male,2013,Standard_Grade
-Craft & Design,7874.0,Male,2013,Standard_Grade
-Graphic Communication,4934.0,Male,2013,Standard_Grade
-Home Economics,1027.0,Male,2013,Standard_Grade
-Technological Studies,1218.0,Male,2013,Standard_Grade
-Art and Design,3104.0,Male,2013,Standard_Grade
-Drama,2131.0,Male,2013,Standard_Grade
-Music,3934.0,Male,2013,Standard_Grade
-Physical Education,10358.0,Male,2013,Standard_Grade
-Subtotal,155921.0,Male,2013,Standard_Grade
-- as percentages,,Male,2013,Standard_Grade
-Gaelic (Learners) (Writing)*,64.0,Male,2013,Standard_Grade
-Total,155985.0,Male,2013,Standard_Grade
-* Awards in the optional Writing Element for Gaelic (Learners) are made at grades 1 to 4 only.,,Male,2013,Standard_Grade
-FEMALE LEARNERS,,Female,2013,Standard_Grade
-TITLE,ENTRIES,Female,2013,Standard_Grade
-English,22513.0,Female,2013,Standard_Grade
-French,11719.0,Female,2013,Standard_Grade
-Gaelic (Learners),173.0,Female,2013,Standard_Grade
-Gàidhlig,119.0,Female,2013,Standard_Grade
-German,2305.0,Female,2013,Standard_Grade
-Italian,127.0,Female,2013,Standard_Grade
-Latin,194.0,Female,2013,Standard_Grade
-Spanish,2199.0,Female,2013,Standard_Grade
-Urdu,40.0,Female,2013,Standard_Grade
-Accounting & Finance,651.0,Female,2013,Standard_Grade
-Mathematics,19153.0,Female,2013,Standard_Grade
-Biology,13278.0,Female,2013,Standard_Grade
-Chemistry,9439.0,Female,2013,Standard_Grade
-Physics,4195.0,Female,2013,Standard_Grade
-Science,974.0,Female,2013,Standard_Grade
-Classical Studies,98.0,Female,2013,Standard_Grade
-Economics,4.0,Female,2013,Standard_Grade
-Geography,7058.0,Female,2013,Standard_Grade
-History,9352.0,Female,2013,Standard_Grade
-Modern Studies,7318.0,Female,2013,Standard_Grade
-Religious Studies,1044.0,Female,2013,Standard_Grade
-Social & Vocational Skills,966.0,Female,2013,Standard_Grade
-Administration,3609.0,Female,2013,Standard_Grade
-Business Management,3168.0,Female,2013,Standard_Grade
-Computing Studies,3181.0,Female,2013,Standard_Grade
-Craft & Design,2409.0,Female,2013,Standard_Grade
-Graphic Communication,2410.0,Female,2013,Standard_Grade
-Home Economics,3182.0,Female,2013,Standard_Grade
-Technological Studies,76.0,Female,2013,Standard_Grade
-Art and Design,7760.0,Female,2013,Standard_Grade
-Drama,4004.0,Female,2013,Standard_Grade
-Music,4921.0,Female,2013,Standard_Grade
-Physical Education,4688.0,Female,2013,Standard_Grade
-Subtotal,152327.0,Female,2013,Standard_Grade
-- as percentages,,Female,2013,Standard_Grade
-Gaelic (Learners) (Writing)*,96.0,Female,2013,Standard_Grade
-Total,152423.0,Female,2013,Standard_Grade
-* Awards in the optional Writing Element for Gaelic (Learners) are made at grades 1 to 4 only.,,Female,2013,Standard_Grade
-Classical Greek,2.0,Male,2002,Higher
-English and Communication,12180.0,Male,2002,Higher
-French,1105.0,Male,2002,Higher
-Gaelic (Learners),31.0,Male,2002,Higher
-Gaidhlig,30.0,Male,2002,Higher
-German,571.0,Male,2002,Higher
-Italian,70.0,Male,2002,Higher
-Latin,98.0,Male,2002,Higher
-Russian,8.0,Male,2002,Higher
-Spanish,190.0,Male,2002,Higher
-Accounting and Finance,1067.0,Male,2002,Higher
-Mathematics,10256.0,Male,2002,Higher
-Biology,2796.0,Male,2002,Higher
-Biotechnology,6.0,Male,2002,Higher
-Chemistry,4739.0,Male,2002,Higher
-Geology,59.0,Male,2002,Higher
-Human Biology,751.0,Male,2002,Higher
-Managing Environmental Resources,11.0,Male,2002,Higher
-Physics,6886.0,Male,2002,Higher
-Classical Studies,200.0,Male,2002,Higher
-Economics,607.0,Male,2002,Higher
-Geography,4208.0,Male,2002,Higher
-History,3399.0,Male,2002,Higher
-Modern Studies,3090.0,Male,2002,Higher
-Philosophy,241.0,Male,2002,Higher
-Politics,8.0,Male,2002,Higher
-Psychology,428.0,Male,2002,Higher
-"Religious, Moral and Philosophical Studies",391.0,Male,2002,Higher
-Sociology,125.0,Male,2002,Higher
-Administration,640.0,Male,2002,Higher
-Beauty: Beauty Care,-,Male,2002,Higher
-Building and Architectural Technology,33.0,Male,2002,Higher
-Building Services,8.0,Male,2002,Higher
-Business Management,2426.0,Male,2002,Higher
-Care,55.0,Male,2002,Higher
-Care Practice,30.0,Male,2002,Higher
-Civil Engineering,28.0,Male,2002,Higher
-Computing,3295.0,Male,2002,Higher
-Construction,75.0,Male,2002,Higher
-Craft and Design,1786.0,Male,2002,Higher
-Design,17.0,Male,2002,Higher
-Early Years Care and Education,2.0,Male,2002,Higher
-Electronics,19.0,Male,2002,Higher
-Fabrication and Welding Engineering,8.0,Male,2002,Higher
-Food Production Supervision,1.0,Male,2002,Higher
-Graphic Communication,2191.0,Male,2002,Higher
-Home Economics - Fashion and Textile Technology,-,Male,2002,Higher
-Home Economics - Health and Food Technology,53.0,Male,2002,Higher
-Home Economics - Lifestyle and Consumer Technology,8.0,Male,2002,Higher
-Hospitality - Food and Drink Service,1.0,Male,2002,Higher
-Hospitality - Professional Cookery,33.0,Male,2002,Higher
-Hospitality - Reception and Accommodation Operations,-,Male,2002,Higher
-Information Systems,2036.0,Male,2002,Higher
-Mechanical Engineering,11.0,Male,2002,Higher
-Mechatronics,26.0,Male,2002,Higher
-Mental Health Care,17.0,Male,2002,Higher
-Personal and Social Education,13.0,Male,2002,Higher
-Professional Patisserie,19.0,Male,2002,Higher
-Quantity Surveying,-,Male,2002,Higher
-Retail Travel,2.0,Male,2002,Higher
-Selling Scheduled Air Travel,1.0,Male,2002,Higher
-Structural Engineering,7.0,Male,2002,Higher
-Technological Studies,895.0,Male,2002,Higher
-Tourism,5.0,Male,2002,Higher
-"Advertising, Marketing and Public Relations",5.0,Male,2002,Higher
-Art and Design,2071.0,Male,2002,Higher
-Drama,380.0,Male,2002,Higher
-Media Studies,337.0,Male,2002,Higher
-Music,1192.0,Male,2002,Higher
-Photography for the Media,7.0,Male,2002,Higher
-Visual Arts,18.0,Male,2002,Higher
-Dance Practice,1.0,Male,2002,Higher
-Fitness and Exercise,19.0,Male,2002,Higher
-Physical Education,2716.0,Male,2002,Higher
-Sports Coaching Studies,23.0,Male,2002,Higher
-Sports Organisation,14.0,Male,2002,Higher
-  - as percentages,1.0,Male,2002,Higher
-Classical Greek,6.0,Female,2002,Higher
-English and Communication,16730.0,Female,2002,Higher
-French,3666.0,Female,2002,Higher
-Gaelic (Learners),116.0,Female,2002,Higher
-Gaidhlig,42.0,Female,2002,Higher
-German,1635.0,Female,2002,Higher
-Italian,214.0,Female,2002,Higher
-Latin,159.0,Female,2002,Higher
-Russian,6.0,Female,2002,Higher
-Spanish,726.0,Female,2002,Higher
-Accounting and Finance,1360.0,Female,2002,Higher
-Mathematics,9534.0,Female,2002,Higher
-Biology,6478.0,Female,2002,Higher
-Biotechnology,4.0,Female,2002,Higher
-Chemistry,4821.0,Female,2002,Higher
-Geology,30.0,Female,2002,Higher
-Human Biology,2360.0,Female,2002,Higher
-Managing Environmental Resources,7.0,Female,2002,Higher
-Physics,2694.0,Female,2002,Higher
-Classical Studies,318.0,Female,2002,Higher
-Economics,435.0,Female,2002,Higher
-Geography,3525.0,Female,2002,Higher
-History,4509.0,Female,2002,Higher
-Modern Studies,4810.0,Female,2002,Higher
-Philosophy,433.0,Female,2002,Higher
-Politics,19.0,Female,2002,Higher
-Psychology,1523.0,Female,2002,Higher
-"Religious, Moral and Philosophical Studies",1205.0,Female,2002,Higher
-Sociology,343.0,Female,2002,Higher
-Administration,3187.0,Female,2002,Higher
-Beauty: Beauty Care,11.0,Female,2002,Higher
-Building and Architectural Technology,5.0,Female,2002,Higher
-Building Services,-,Female,2002,Higher
-Business Management,3482.0,Female,2002,Higher
-Care,406.0,Female,2002,Higher
-Care Practice,233.0,Female,2002,Higher
-Civil Engineering,3.0,Female,2002,Higher
-Computing,1185.0,Female,2002,Higher
-Construction,6.0,Female,2002,Higher
-Craft and Design,820.0,Female,2002,Higher
-Design,32.0,Female,2002,Higher
-Early Years Care and Education,123.0,Female,2002,Higher
-Electronics,2.0,Female,2002,Higher
-Fabrication and Welding Engineering,-,Female,2002,Higher
-Food Production Supervision,2.0,Female,2002,Higher
-Graphic Communication,815.0,Female,2002,Higher
-Home Economics - Fashion and Textile Technology,48.0,Female,2002,Higher
-Home Economics - Health and Food Technology,657.0,Female,2002,Higher
-Home Economics - Lifestyle and Consumer Technology,115.0,Female,2002,Higher
-Hospitality - Food and Drink Service,2.0,Female,2002,Higher
-Hospitality - Professional Cookery,26.0,Female,2002,Higher
-Hospitality - Reception and Accommodation Operations,4.0,Female,2002,Higher
-Information Systems,860.0,Female,2002,Higher
-Mechanical Engineering,4.0,Female,2002,Higher
-Mechatronics,-,Female,2002,Higher
-Mental Health Care,119.0,Female,2002,Higher
-Personal and Social Education,58.0,Female,2002,Higher
-Professional Patisserie,27.0,Female,2002,Higher
-Quantity Surveying,2.0,Female,2002,Higher
-Retail Travel,27.0,Female,2002,Higher
-Selling Scheduled Air Travel,20.0,Female,2002,Higher
-Structural Engineering,1.0,Female,2002,Higher
-Technological Studies,62.0,Female,2002,Higher
-Tourism,50.0,Female,2002,Higher
-"Advertising, Marketing and Public Relations",5.0,Female,2002,Higher
-Art and Design,5129.0,Female,2002,Higher
-Drama,1189.0,Female,2002,Higher
-Media Studies,440.0,Female,2002,Higher
-Music,1898.0,Female,2002,Higher
-Photography for the Media,7.0,Female,2002,Higher
-Visual Arts,32.0,Female,2002,Higher
-Dance Practice,9.0,Female,2002,Higher
-Fitness and Exercise,13.0,Female,2002,Higher
-Physical Education,1085.0,Female,2002,Higher
-Sports Coaching Studies,14.0,Female,2002,Higher
-Sports Organisation,4.0,Female,2002,Higher
-  - as percentages,1.0,Female,2002,Higher
-Classical Greek,4.0,Male,2007,Higher
-English,11283.0,Male,2007,Higher
-English for Speakers of Other Languages,80.0,Male,2007,Higher
-French,1136.0,Male,2007,Higher
-Gaelic (Learners),34.0,Male,2007,Higher
-Gàidhlig,31.0,Male,2007,Higher
-German,484.0,Male,2007,Higher
-Italian,53.0,Male,2007,Higher
-Latin,78.0,Male,2007,Higher
-Russian,9.0,Male,2007,Higher
-Spanish,289.0,Male,2007,Higher
-Accounting,725.0,Male,2007,Higher
-Mathematics,9646.0,Male,2007,Higher
-Biology,3029.0,Male,2007,Higher
-Biotechnology,15.0,Male,2007,Higher
-Chemistry,4709.0,Male,2007,Higher
-Geology,38.0,Male,2007,Higher
-Human Biology,1046.0,Male,2007,Higher
-Managing Environmental Resources,40.0,Male,2007,Higher
-Physics,6180.0,Male,2007,Higher
-Classical Studies,145.0,Male,2007,Higher
-Economics,425.0,Male,2007,Higher
-Geography,3804.0,Male,2007,Higher
-History,3628.0,Male,2007,Higher
-Modern Studies,2680.0,Male,2007,Higher
-Philosophy,321.0,Male,2007,Higher
-Politics,48.0,Male,2007,Higher
-Psychology (New),591.0,Male,2007,Higher
-"Religious, Moral and Philosophical Studies (New)",491.0,Male,2007,Higher
-Sociology,149.0,Male,2007,Higher
-Administration,616.0,Male,2007,Higher
-Architectural Technology,52.0,Male,2007,Higher
-Building Construction,31.0,Male,2007,Higher
-Business Management,2575.0,Male,2007,Higher
-Care,39.0,Male,2007,Higher
-Care Practice,27.0,Male,2007,Higher
-Computing (New),3169.0,Male,2007,Higher
-Design,6.0,Male,2007,Higher
-Early Education and Childcare,27.0,Male,2007,Higher
-Fabrication and Welding Engineering,12.0,Male,2007,Higher
-Graphic Communication,2425.0,Male,2007,Higher
-Home Economics: Fashion and Textile Technology,1.0,Male,2007,Higher
-Home Economics: Health and Food Technology,65.0,Male,2007,Higher
-Home Economics: Lifestyle and Consumer Technology,11.0,Male,2007,Higher
-Hospitality - Food and Drink Service,-,Male,2007,Higher
-Hospitality - Professional Cookery,33.0,Male,2007,Higher
-Information Systems,1076.0,Male,2007,Higher
-Mechatronics,22.0,Male,2007,Higher
-Mental Health Care (New),25.0,Male,2007,Higher
-Personal and Social Education,8.0,Male,2007,Higher
-Play in Early Education and Childcare,9.0,Male,2007,Higher
-Product Design,1378.0,Male,2007,Higher
-Professional Patisserie,24.0,Male,2007,Higher
-Retail Travel (New),3.0,Male,2007,Higher
-Selling Scheduled Air Travel,1.0,Male,2007,Higher
-Technological Studies,721.0,Male,2007,Higher
-Travel and Tourism,25.0,Male,2007,Higher
-Art and Design,1648.0,Male,2007,Higher
-Drama,534.0,Male,2007,Higher
-Media Studies,368.0,Male,2007,Higher
-Music,1953.0,Male,2007,Higher
-Photography for the Media,131.0,Male,2007,Higher
-Visual Arts,3.0,Male,2007,Higher
-Dance Practice,6.0,Male,2007,Higher
-Fitness and Exercise,43.0,Male,2007,Higher
-Physical Education,3302.0,Male,2007,Higher
-Sports Coaching Studies,53.0,Male,2007,Higher
-Sports Organisation,3.0,Male,2007,Higher
-- as percentages,,Male,2007,Higher
-Classical Greek,3.0,Female,2007,Higher
-English,16502.0,Female,2007,Higher
-English for Speakers of Other Languages,113.0,Female,2007,Higher
-French,3438.0,Female,2007,Higher
-Gaelic (Learners),85.0,Female,2007,Higher
-Gàidhlig,66.0,Female,2007,Higher
-German,1137.0,Female,2007,Higher
-Italian,172.0,Female,2007,Higher
-Latin,156.0,Female,2007,Higher
-Russian,7.0,Female,2007,Higher
-Spanish,931.0,Female,2007,Higher
-Accounting,734.0,Female,2007,Higher
-Mathematics,9146.0,Female,2007,Higher
-Biology,6140.0,Female,2007,Higher
-Biotechnology,29.0,Female,2007,Higher
-Chemistry,4781.0,Female,2007,Higher
-Geology,21.0,Female,2007,Higher
-Human Biology,2666.0,Female,2007,Higher
-Managing Environmental Resources,44.0,Female,2007,Higher
-Physics,2402.0,Female,2007,Higher
-Classical Studies,263.0,Female,2007,Higher
-Economics,224.0,Female,2007,Higher
-Geography,3499.0,Female,2007,Higher
-History,4557.0,Female,2007,Higher
-Modern Studies,4345.0,Female,2007,Higher
-Philosophy,524.0,Female,2007,Higher
-Politics,46.0,Female,2007,Higher
-Psychology (New),2007.0,Female,2007,Higher
-"Religious, Moral and Philosophical Studies (New)",1260.0,Female,2007,Higher
-Sociology,457.0,Female,2007,Higher
-Administration,2383.0,Female,2007,Higher
-Architectural Technology,8.0,Female,2007,Higher
-Building Construction,1.0,Female,2007,Higher
-Business Management,3162.0,Female,2007,Higher
-Care,598.0,Female,2007,Higher
-Care Practice,304.0,Female,2007,Higher
-Computing (New),1011.0,Female,2007,Higher
-Design,17.0,Female,2007,Higher
-Early Education and Childcare,793.0,Female,2007,Higher
-Fabrication and Welding Engineering,1.0,Female,2007,Higher
-Graphic Communication,1070.0,Female,2007,Higher
-Home Economics: Fashion and Textile Technology,87.0,Female,2007,Higher
-Home Economics: Health and Food Technology,710.0,Female,2007,Higher
-Home Economics: Lifestyle and Consumer Technology,197.0,Female,2007,Higher
-Hospitality - Food and Drink Service,2.0,Female,2007,Higher
-Hospitality - Professional Cookery,27.0,Female,2007,Higher
-Information Systems,580.0,Female,2007,Higher
-Mechatronics,2.0,Female,2007,Higher
-Mental Health Care (New),347.0,Female,2007,Higher
-Personal and Social Education,64.0,Female,2007,Higher
-Play in Early Education and Childcare,275.0,Female,2007,Higher
-Product Design,766.0,Female,2007,Higher
-Professional Patisserie,21.0,Female,2007,Higher
-Retail Travel (New),29.0,Female,2007,Higher
-Selling Scheduled Air Travel,15.0,Female,2007,Higher
-Technological Studies,50.0,Female,2007,Higher
-Travel and Tourism,56.0,Female,2007,Higher
-Art and Design,5101.0,Female,2007,Higher
-Drama,1502.0,Female,2007,Higher
-Media Studies,451.0,Female,2007,Higher
-Music,2325.0,Female,2007,Higher
-Photography for the Media,244.0,Female,2007,Higher
-Visual Arts,6.0,Female,2007,Higher
-Dance Practice,131.0,Female,2007,Higher
-Fitness and Exercise,19.0,Female,2007,Higher
-Physical Education,1328.0,Female,2007,Higher
-Sports Coaching Studies,23.0,Female,2007,Higher
-Sports Organisation,4.0,Female,2007,Higher
-- as percentages,,Female,2007,Higher
-MALE LEARNERS,,Male,2010,Higher
-TITLE,ENTRIES,Male,2010,Higher
-Cantonese,0.0,Male,2010,Higher
-Classical Greek,5.0,Male,2010,Higher
-English,11935.0,Male,2010,Higher
-English for Speakers of Other Languages,224.0,Male,2010,Higher
-French,1133.0,Male,2010,Higher
-Gaelic (Learners),49.0,Male,2010,Higher
-Gàidhlig,33.0,Male,2010,Higher
-German,344.0,Male,2010,Higher
-Italian,57.0,Male,2010,Higher
-Latin,84.0,Male,2010,Higher
-Mandarin (Simplified),13.0,Male,2010,Higher
-Mandarin (Traditional),4.0,Male,2010,Higher
-Russian,7.0,Male,2010,Higher
-Spanish,355.0,Male,2010,Higher
-Urdu,30.0,Male,2010,Higher
-Accounting,596.0,Male,2010,Higher
-Mathematics,10765.0,Male,2010,Higher
-Biology,3382.0,Male,2010,Higher
-Biotechnology,11.0,Male,2010,Higher
-Chemistry,5120.0,Male,2010,Higher
-Geology,46.0,Male,2010,Higher
-Human Biology,1292.0,Male,2010,Higher
-Managing Environmental Resources,114.0,Male,2010,Higher
-Physics,6544.0,Male,2010,Higher
-Classical Studies,156.0,Male,2010,Higher
-Economics,383.0,Male,2010,Higher
-Geography,3644.0,Male,2010,Higher
-History,4063.0,Male,2010,Higher
-Modern Studies,2794.0,Male,2010,Higher
-Philosophy,372.0,Male,2010,Higher
-Politics,92.0,Male,2010,Higher
-Psychology,857.0,Male,2010,Higher
-"Religious, Moral and Philosophical Studies",982.0,Male,2010,Higher
-Sociology,283.0,Male,2010,Higher
-Administration,587.0,Male,2010,Higher
-Architectural Technology,27.0,Male,2010,Higher
-Beauty,0.0,Male,2010,Higher
-Building Construction,7.0,Male,2010,Higher
-Business Management,2772.0,Male,2010,Higher
-Care,55.0,Male,2010,Higher
-Care Practice,22.0,Male,2010,Higher
-Computing,3313.0,Male,2010,Higher
-Early Education and Childcare,23.0,Male,2010,Higher
-Graphic Communication,2815.0,Male,2010,Higher
-Health and Social Care,35.0,Male,2010,Higher
-Home Economics: Fashion and Textile Technology,4.0,Male,2010,Higher
-Home Economics: Health and Food Technology,90.0,Male,2010,Higher
-Home Economics: Lifestyle and Consumer Technology,12.0,Male,2010,Higher
-Hospitality - Professional Cookery,40.0,Male,2010,Higher
-Information Systems,916.0,Male,2010,Higher
-Mechatronics,24.0,Male,2010,Higher
-Mental Health Care,38.0,Male,2010,Higher
-Personal Development,39.0,Male,2010,Higher
-Play in Early Education and Childcare,5.0,Male,2010,Higher
-Product Design,1602.0,Male,2010,Higher
-Professional Patisserie,4.0,Male,2010,Higher
-Retail Travel,7.0,Male,2010,Higher
-Technological Studies,684.0,Male,2010,Higher
-Travel and Tourism,17.0,Male,2010,Higher
-Art and Design,1686.0,Male,2010,Higher
-Drama,698.0,Male,2010,Higher
-Media Studies,321.0,Male,2010,Higher
-Music,2114.0,Male,2010,Higher
-Photography for the Media,326.0,Male,2010,Higher
-Dance Practice,14.0,Male,2010,Higher
-Fitness and Exercise,21.0,Male,2010,Higher
-Physical Education,4125.0,Male,2010,Higher
-Sports Coaching Studies,46.0,Male,2010,Higher
-Total,78258.0,Male,2010,Higher
-- as percentages,,Male,2010,Higher
-FEMALE LEARNERS,,Female,2010,Higher
-TITLE,ENTRIES,Female,2010,Higher
-Cantonese,3.0,Female,2010,Higher
-Classical Greek,0.0,Female,2010,Higher
-English,17594.0,Female,2010,Higher
-English for Speakers of Other Languages,367.0,Female,2010,Higher
-French,3462.0,Female,2010,Higher
-Gaelic (Learners),82.0,Female,2010,Higher
-Gàidhlig,57.0,Female,2010,Higher
-German,834.0,Female,2010,Higher
-Italian,184.0,Female,2010,Higher
-Latin,144.0,Female,2010,Higher
-Mandarin (Simplified),15.0,Female,2010,Higher
-Mandarin (Traditional),1.0,Female,2010,Higher
-Russian,18.0,Female,2010,Higher
-Spanish,1006.0,Female,2010,Higher
-Urdu,59.0,Female,2010,Higher
-Accounting,624.0,Female,2010,Higher
-Mathematics,9892.0,Female,2010,Higher
-Biology,5926.0,Female,2010,Higher
-Biotechnology,16.0,Female,2010,Higher
-Chemistry,5059.0,Female,2010,Higher
-Geology,17.0,Female,2010,Higher
-Human Biology,2786.0,Female,2010,Higher
-Managing Environmental Resources,96.0,Female,2010,Higher
-Physics,2474.0,Female,2010,Higher
-Classical Studies,262.0,Female,2010,Higher
-Economics,250.0,Female,2010,Higher
-Geography,3751.0,Female,2010,Higher
-History,5130.0,Female,2010,Higher
-Modern Studies,4577.0,Female,2010,Higher
-Philosophy,542.0,Female,2010,Higher
-Politics,110.0,Female,2010,Higher
-Psychology,2436.0,Female,2010,Higher
-"Religious, Moral and Philosophical Studies",2170.0,Female,2010,Higher
-Sociology,614.0,Female,2010,Higher
-Administration,2328.0,Female,2010,Higher
-Architectural Technology,12.0,Female,2010,Higher
-Beauty,46.0,Female,2010,Higher
-Building Construction,0.0,Female,2010,Higher
-Business Management,3746.0,Female,2010,Higher
-Care,596.0,Female,2010,Higher
-Care Practice,289.0,Female,2010,Higher
-Computing,1043.0,Female,2010,Higher
-Early Education and Childcare,709.0,Female,2010,Higher
-Graphic Communication,1256.0,Female,2010,Higher
-Health and Social Care,420.0,Female,2010,Higher
-Home Economics: Fashion and Textile Technology,162.0,Female,2010,Higher
-Home Economics: Health and Food Technology,774.0,Female,2010,Higher
-Home Economics: Lifestyle and Consumer Technology,313.0,Female,2010,Higher
-Hospitality - Professional Cookery,32.0,Female,2010,Higher
-Information Systems,517.0,Female,2010,Higher
-Mechatronics,2.0,Female,2010,Higher
-Mental Health Care,386.0,Female,2010,Higher
-Personal Development,72.0,Female,2010,Higher
-Play in Early Education and Childcare,179.0,Female,2010,Higher
-Product Design,860.0,Female,2010,Higher
-Professional Patisserie,4.0,Female,2010,Higher
-Retail Travel,51.0,Female,2010,Higher
-Technological Studies,44.0,Female,2010,Higher
-Travel and Tourism,61.0,Female,2010,Higher
-Art and Design,5554.0,Female,2010,Higher
-Drama,1748.0,Female,2010,Higher
-Media Studies,482.0,Female,2010,Higher
-Music,2483.0,Female,2010,Higher
-Photography for the Media,621.0,Female,2010,Higher
-Dance Practice,274.0,Female,2010,Higher
-Fitness and Exercise,15.0,Female,2010,Higher
-Physical Education,1695.0,Female,2010,Higher
-Sports Coaching Studies,24.0,Female,2010,Higher
-Total,97356.0,Female,2010,Higher
-- as percentages,,Female,2010,Higher
-MALE LEARNERS,,Male,2013,Higher
-TITLE,ENTRIES,Male,2013,Higher
-Chinese Languages,34.0,Male,2013,Higher
-Classical Greek,4.0,Male,2013,Higher
-English,12398.0,Male,2013,Higher
-English for Speakers of Other Languages,262.0,Male,2013,Higher
-French,1018.0,Male,2013,Higher
-Gaelic (Learners),39.0,Male,2013,Higher
-Gàidhlig,32.0,Male,2013,Higher
-German,312.0,Male,2013,Higher
-Italian,68.0,Male,2013,Higher
-Latin,83.0,Male,2013,Higher
-Russian,10.0,Male,2013,Higher
-Spanish,406.0,Male,2013,Higher
-Urdu,31.0,Male,2013,Higher
-Accounting,535.0,Male,2013,Higher
-Mathematics,10743.0,Male,2013,Higher
-Biology,3628.0,Male,2013,Higher
-Biology (Revised),73.0,Male,2013,Higher
-Biotechnology,8.0,Male,2013,Higher
-Chemistry,4946.0,Male,2013,Higher
-Chemistry (Revised),339.0,Male,2013,Higher
-Geology,41.0,Male,2013,Higher
-Human Biology,1217.0,Male,2013,Higher
-Human Biology (Revised),50.0,Male,2013,Higher
-Managing Environmental Resources,183.0,Male,2013,Higher
-Physics,6219.0,Male,2013,Higher
-Physics (Revised),616.0,Male,2013,Higher
-Classical Studies,131.0,Male,2013,Higher
-Economics,355.0,Male,2013,Higher
-Geography,3825.0,Male,2013,Higher
-History,4449.0,Male,2013,Higher
-Modern Studies,3144.0,Male,2013,Higher
-Philosophy,354.0,Male,2013,Higher
-Politics,210.0,Male,2013,Higher
-Psychology,876.0,Male,2013,Higher
-"Religious, Moral and Philosophical Studies",1302.0,Male,2013,Higher
-Sociology,286.0,Male,2013,Higher
-Administration,567.0,Male,2013,Higher
-Architectural Technology,9.0,Male,2013,Higher
-Beauty,0.0,Male,2013,Higher
-Building Construction,10.0,Male,2013,Higher
-Business Management,3091.0,Male,2013,Higher
-Care,54.0,Male,2013,Higher
-Care Practice,15.0,Male,2013,Higher
-Computing,3097.0,Male,2013,Higher
-Early Education and Childcare,23.0,Male,2013,Higher
-Graphic Communication,2812.0,Male,2013,Higher
-Health and Social Care,14.0,Male,2013,Higher
-Home Economics: Fashion and Textile Technology,3.0,Male,2013,Higher
-Home Economics: Health and Food Technology,109.0,Male,2013,Higher
-Home Economics: Lifestyle and Consumer Technology,28.0,Male,2013,Higher
-Hospitality - Professional Cookery,36.0,Male,2013,Higher
-Information Systems,782.0,Male,2013,Higher
-Mechatronics,25.0,Male,2013,Higher
-Mental Health Care,21.0,Male,2013,Higher
-Personal Development,115.0,Male,2013,Higher
-Play in Early Education and Childcare,2.0,Male,2013,Higher
-Product Design,1518.0,Male,2013,Higher
-Retail Travel,7.0,Male,2013,Higher
-Technological Studies,693.0,Male,2013,Higher
-Travel and Tourism,23.0,Male,2013,Higher
-Art and Design,1235.0,Male,2013,Higher
-Drama,705.0,Male,2013,Higher
-Media Studies,400.0,Male,2013,Higher
-Music,2357.0,Male,2013,Higher
-Photography,463.0,Male,2013,Higher
-Dance Practice,11.0,Male,2013,Higher
-Physical Education,4916.0,Male,2013,Higher
-Total,81368.0,Male,2013,Higher
-- as percentages,,Male,2013,Higher
-FEMALE LEARNERS,,Female,2013,Higher
-TITLE,ENTRIES,Female,2013,Higher
-Chinese Languages,32.0,Female,2013,Higher
-Classical Greek,4.0,Female,2013,Higher
-English,18038.0,Female,2013,Higher
-English for Speakers of Other Languages,367.0,Female,2013,Higher
-French,3221.0,Female,2013,Higher
-Gaelic (Learners),80.0,Female,2013,Higher
-Gàidhlig,85.0,Female,2013,Higher
-German,739.0,Female,2013,Higher
-Italian,170.0,Female,2013,Higher
-Latin,135.0,Female,2013,Higher
-Russian,26.0,Female,2013,Higher
-Spanish,1239.0,Female,2013,Higher
-Urdu,78.0,Female,2013,Higher
-Accounting,537.0,Female,2013,Higher
-Mathematics,9922.0,Female,2013,Higher
-Biology,6343.0,Female,2013,Higher
-Biology (Revised),90.0,Female,2013,Higher
-Biotechnology,13.0,Female,2013,Higher
-Chemistry,5058.0,Female,2013,Higher
-Chemistry (Revised),313.0,Female,2013,Higher
-Geology,23.0,Female,2013,Higher
-Human Biology,2909.0,Female,2013,Higher
-Human Biology (Revised),99.0,Female,2013,Higher
-Managing Environmental Resources,179.0,Female,2013,Higher
-Physics,2574.0,Female,2013,Higher
-Physics (Revised),225.0,Female,2013,Higher
-Classical Studies,217.0,Female,2013,Higher
-Economics,236.0,Female,2013,Higher
-Geography,3962.0,Female,2013,Higher
-History,5895.0,Female,2013,Higher
-Modern Studies,4894.0,Female,2013,Higher
-Philosophy,456.0,Female,2013,Higher
-Politics,265.0,Female,2013,Higher
-Psychology,2494.0,Female,2013,Higher
-"Religious, Moral and Philosophical Studies",2842.0,Female,2013,Higher
-Sociology,621.0,Female,2013,Higher
-Administration,1836.0,Female,2013,Higher
-Architectural Technology,3.0,Female,2013,Higher
-Beauty,109.0,Female,2013,Higher
-Building Construction,1.0,Female,2013,Higher
-Business Management,4215.0,Female,2013,Higher
-Care,738.0,Female,2013,Higher
-Care Practice,175.0,Female,2013,Higher
-Computing,892.0,Female,2013,Higher
-Early Education and Childcare,748.0,Female,2013,Higher
-Graphic Communication,1254.0,Female,2013,Higher
-Health and Social Care,320.0,Female,2013,Higher
-Home Economics: Fashion and Textile Technology,171.0,Female,2013,Higher
-Home Economics: Health and Food Technology,737.0,Female,2013,Higher
-Home Economics: Lifestyle and Consumer Technology,309.0,Female,2013,Higher
-Hospitality - Professional Cookery,46.0,Female,2013,Higher
-Information Systems,442.0,Female,2013,Higher
-Mechatronics,2.0,Female,2013,Higher
-Mental Health Care,315.0,Female,2013,Higher
-Personal Development,201.0,Female,2013,Higher
-Play in Early Education and Childcare,117.0,Female,2013,Higher
-Product Design,869.0,Female,2013,Higher
-Retail Travel,20.0,Female,2013,Higher
-Technological Studies,42.0,Female,2013,Higher
-Travel and Tourism,63.0,Female,2013,Higher
-Art and Design,5259.0,Female,2013,Higher
-Drama,1933.0,Female,2013,Higher
-Media Studies,577.0,Female,2013,Higher
-Music,2736.0,Female,2013,Higher
-Photography,1277.0,Female,2013,Higher
-Dance Practice,359.0,Female,2013,Higher
-Physical Education,1974.0,Female,2013,Higher
-Total,102121.0,Female,2013,Higher
-- as percentages,,Female,2013,Higher
-MALE CANDIDATES,,None,2000,CSYS
-Classical Greek,-,None,2000,CSYS
-English,504.0,None,2000,CSYS
-French,83.0,None,2000,CSYS
-Gaidhlig,5.0,None,2000,CSYS
-German,30.0,None,2000,CSYS
-Italian,3.0,None,2000,CSYS
-Latin,11.0,None,2000,CSYS
-Spanish,14.0,None,2000,CSYS
-Accounting and Finance,11.0,None,2000,CSYS
-Mathematics I,1500.0,None,2000,CSYS
-Mathematics II,133.0,None,2000,CSYS
-Mathematics III,217.0,None,2000,CSYS
-Mathematics IV,32.0,None,2000,CSYS
-Mathematics V,125.0,None,2000,CSYS
-Biology,381.0,None,2000,CSYS
-Chemistry,749.0,None,2000,CSYS
-Physics,862.0,None,2000,CSYS
-Classical Studies,7.0,None,2000,CSYS
-Economics,35.0,None,2000,CSYS
-Geography,216.0,None,2000,CSYS
-History,278.0,None,2000,CSYS
-Modern Studies,146.0,None,2000,CSYS
-Religious Studies,2.0,None,2000,CSYS
-Computing Studies,268.0,None,2000,CSYS
-Technological Studies,23.0,None,2000,CSYS
-Art and Design (Enquiry),293.0,None,2000,CSYS
-Art and Design (Research and Appreciation),9.0,None,2000,CSYS
-Music,183.0,None,2000,CSYS
-     - as percentages,1.0,None,2000,CSYS
-FEMALE CANDIDATES,,None,2000,CSYS
-Classical Greek,1.0,None,2000,CSYS
-English,1106.0,None,2000,CSYS
-French,327.0,None,2000,CSYS
-Gaidhlig,11.0,None,2000,CSYS
-German,118.0,None,2000,CSYS
-Italian,7.0,None,2000,CSYS
-Latin,24.0,None,2000,CSYS
-Spanish,64.0,None,2000,CSYS
-Accounting and Finance,8.0,None,2000,CSYS
-Mathematics I,921.0,None,2000,CSYS
-Mathematics II,61.0,None,2000,CSYS
-Mathematics III,188.0,None,2000,CSYS
-Mathematics IV,18.0,None,2000,CSYS
-Mathematics V,26.0,None,2000,CSYS
-Biology,876.0,None,2000,CSYS
-Chemistry,811.0,None,2000,CSYS
-Physics,243.0,None,2000,CSYS
-Classical Studies,5.0,None,2000,CSYS
-Economics,17.0,None,2000,CSYS
-Geography,253.0,None,2000,CSYS
-History,360.0,None,2000,CSYS
-Modern Studies,294.0,None,2000,CSYS
-Religious Studies,15.0,None,2000,CSYS
-Computing Studies,33.0,None,2000,CSYS
-Technological Studies,1.0,None,2000,CSYS
-Art and Design (Enquiry),721.0,None,2000,CSYS
-Art and Design (Research and Appreciation),34.0,None,2000,CSYS
-Music,342.0,None,2000,CSYS
-English and Communication,143.0,Male,2001,Advanced_Higher
-French,63.0,Male,2001,Advanced_Higher
-Gàidhlig,-,Male,2001,Advanced_Higher
-Gaelic (Learners),2.0,Male,2001,Advanced_Higher
-German,47.0,Male,2001,Advanced_Higher
-Italian,2.0,Male,2001,Advanced_Higher
-Latin,6.0,Male,2001,Advanced_Higher
-Russian,3.0,Male,2001,Advanced_Higher
-Spanish,5.0,Male,2001,Advanced_Higher
-Applied Mathematics,96.0,Male,2001,Advanced_Higher
-Accounting and Finance,26.0,Male,2001,Advanced_Higher
-Mathematics,705.0,Male,2001,Advanced_Higher
-Biology,103.0,Male,2001,Advanced_Higher
-Chemistry,269.0,Male,2001,Advanced_Higher
-Physics,801.0,Male,2001,Advanced_Higher
-Classical Studies,4.0,Male,2001,Advanced_Higher
-Economics,30.0,Male,2001,Advanced_Higher
-Geography,175.0,Male,2001,Advanced_Higher
-History,209.0,Male,2001,Advanced_Higher
-Modern Studies,120.0,Male,2001,Advanced_Higher
-Philosophy,2.0,Male,2001,Advanced_Higher
-"Religious, Moral and Philosophical Studies",7.0,Male,2001,Advanced_Higher
-Sociology,1.0,Male,2001,Advanced_Higher
-Business Management,7.0,Male,2001,Advanced_Higher
-Computing,88.0,Male,2001,Advanced_Higher
-Craft and Design,11.0,Male,2001,Advanced_Higher
-Graphic Communication,133.0,Male,2001,Advanced_Higher
-Home Economics - Fashion and Textile Technology,-,Male,2001,Advanced_Higher
-Home Economics - Health and Food Technology,1.0,Male,2001,Advanced_Higher
-Information Systems,44.0,Male,2001,Advanced_Higher
-Technological Studies,73.0,Male,2001,Advanced_Higher
-Art and Design Enquiry: Design,44.0,Male,2001,Advanced_Higher
-Art and Design Enquiry: Expressive,35.0,Male,2001,Advanced_Higher
-Art and Design: Research and Appreciation,2.0,Male,2001,Advanced_Higher
-Drama,12.0,Male,2001,Advanced_Higher
-Media Studies,3.0,Male,2001,Advanced_Higher
-Music,63.0,Male,2001,Advanced_Higher
-Physical Education,25.0,Male,2001,Advanced_Higher
-English and Communication,318.0,Female,2001,Advanced_Higher
-French,252.0,Female,2001,Advanced_Higher
-Gàidhlig,11.0,Female,2001,Advanced_Higher
-Gaelic (Learners),8.0,Female,2001,Advanced_Higher
-German,127.0,Female,2001,Advanced_Higher
-Italian,8.0,Female,2001,Advanced_Higher
-Latin,25.0,Female,2001,Advanced_Higher
-Russian,-,Female,2001,Advanced_Higher
-Spanish,48.0,Female,2001,Advanced_Higher
-Applied Mathematics,56.0,Female,2001,Advanced_Higher
-Accounting and Finance,16.0,Female,2001,Advanced_Higher
-Mathematics,494.0,Female,2001,Advanced_Higher
-Biology,293.0,Female,2001,Advanced_Higher
-Chemistry,323.0,Female,2001,Advanced_Higher
-Physics,225.0,Female,2001,Advanced_Higher
-Classical Studies,4.0,Female,2001,Advanced_Higher
-Economics,14.0,Female,2001,Advanced_Higher
-Geography,138.0,Female,2001,Advanced_Higher
-History,272.0,Female,2001,Advanced_Higher
-Modern Studies,211.0,Female,2001,Advanced_Higher
-Philosophy,3.0,Female,2001,Advanced_Higher
-"Religious, Moral and Philosophical Studies",23.0,Female,2001,Advanced_Higher
-Sociology,2.0,Female,2001,Advanced_Higher
-Business Management,12.0,Female,2001,Advanced_Higher
-Computing,17.0,Female,2001,Advanced_Higher
-Craft and Design,9.0,Female,2001,Advanced_Higher
-Graphic Communication,30.0,Female,2001,Advanced_Higher
-Home Economics - Fashion and Textile Technology,2.0,Female,2001,Advanced_Higher
-Home Economics - Health and Food Technology,18.0,Female,2001,Advanced_Higher
-Information Systems,7.0,Female,2001,Advanced_Higher
-Technological Studies,2.0,Female,2001,Advanced_Higher
-Art and Design Enquiry: Design,119.0,Female,2001,Advanced_Higher
-Art and Design Enquiry: Expressive,128.0,Female,2001,Advanced_Higher
-Art and Design: Research and Appreciation,11.0,Female,2001,Advanced_Higher
-Drama,32.0,Female,2001,Advanced_Higher
-Media Studies,4.0,Female,2001,Advanced_Higher
-Music,135.0,Female,2001,Advanced_Higher
-Physical Education,12.0,Female,2001,Advanced_Higher
-  - as percentages,,Female,2001,Advanced_Higher
-Classical Greek,1.0,Male,2007,Advanced_Higher
-English,542.0,Male,2007,Advanced_Higher
-French,138.0,Male,2007,Advanced_Higher
-Gaelic (Learners),6.0,Male,2007,Advanced_Higher
-Gàidhlig,11.0,Male,2007,Advanced_Higher
-German,51.0,Male,2007,Advanced_Higher
-Italian,6.0,Male,2007,Advanced_Higher
-Latin,23.0,Male,2007,Advanced_Higher
-Russian,2.0,Male,2007,Advanced_Higher
-Spanish,29.0,Male,2007,Advanced_Higher
-Applied Mathematics,206.0,Male,2007,Advanced_Higher
-Accounting,51.0,Male,2007,Advanced_Higher
-Mathematics,1505.0,Male,2007,Advanced_Higher
-Biology,648.0,Male,2007,Advanced_Higher
-Chemistry,1109.0,Male,2007,Advanced_Higher
-Physics,1093.0,Male,2007,Advanced_Higher
-Classical Studies,25.0,Male,2007,Advanced_Higher
-Economics,46.0,Male,2007,Advanced_Higher
-Geography,411.0,Male,2007,Advanced_Higher
-History,400.0,Male,2007,Advanced_Higher
-Modern Studies,223.0,Male,2007,Advanced_Higher
-Philosophy,3.0,Male,2007,Advanced_Higher
-"Religious, Moral and Philosophical Studies",57.0,Male,2007,Advanced_Higher
-Sociology,-,Male,2007,Advanced_Higher
-Administration,3.0,Male,2007,Advanced_Higher
-Business Management,100.0,Male,2007,Advanced_Higher
-Computing,300.0,Male,2007,Advanced_Higher
-Graphic Communication,380.0,Male,2007,Advanced_Higher
-Home Economics: Health and Food Technology,1.0,Male,2007,Advanced_Higher
-Information Systems,53.0,Male,2007,Advanced_Higher
-Product Design,36.0,Male,2007,Advanced_Higher
-Technological Studies,91.0,Male,2007,Advanced_Higher
-Art and Design Enquiry: Design,92.0,Male,2007,Advanced_Higher
-Art and Design Enquiry: Expressive,182.0,Male,2007,Advanced_Higher
-Art and Design: Research and Appreciation,11.0,Male,2007,Advanced_Higher
-Drama,68.0,Male,2007,Advanced_Higher
-Media Studies,3.0,Male,2007,Advanced_Higher
-Music,573.0,Male,2007,Advanced_Higher
-Physical Education,33.0,Male,2007,Advanced_Higher
-- as percentages,,Male,2007,Advanced_Higher
-Classical Greek,-,Female,2007,Advanced_Higher
-English,1078.0,Female,2007,Advanced_Higher
-French,486.0,Female,2007,Advanced_Higher
-Gaelic (Learners),17.0,Female,2007,Advanced_Higher
-Gàidhlig,12.0,Female,2007,Advanced_Higher
-German,113.0,Female,2007,Advanced_Higher
-Italian,26.0,Female,2007,Advanced_Higher
-Latin,15.0,Female,2007,Advanced_Higher
-Russian,2.0,Female,2007,Advanced_Higher
-Spanish,98.0,Female,2007,Advanced_Higher
-Applied Mathematics,79.0,Female,2007,Advanced_Higher
-Accounting,26.0,Female,2007,Advanced_Higher
-Mathematics,979.0,Female,2007,Advanced_Higher
-Biology,1281.0,Female,2007,Advanced_Higher
-Chemistry,930.0,Female,2007,Advanced_Higher
-Physics,287.0,Female,2007,Advanced_Higher
-Classical Studies,30.0,Female,2007,Advanced_Higher
-Economics,16.0,Female,2007,Advanced_Higher
-Geography,457.0,Female,2007,Advanced_Higher
-History,513.0,Female,2007,Advanced_Higher
-Modern Studies,443.0,Female,2007,Advanced_Higher
-Philosophy,3.0,Female,2007,Advanced_Higher
-"Religious, Moral and Philosophical Studies",96.0,Female,2007,Advanced_Higher
-Sociology,4.0,Female,2007,Advanced_Higher
-Administration,10.0,Female,2007,Advanced_Higher
-Business Management,116.0,Female,2007,Advanced_Higher
-Computing,49.0,Female,2007,Advanced_Higher
-Graphic Communication,146.0,Female,2007,Advanced_Higher
-Home Economics: Health and Food Technology,24.0,Female,2007,Advanced_Higher
-Information Systems,27.0,Female,2007,Advanced_Higher
-Product Design,40.0,Female,2007,Advanced_Higher
-Technological Studies,6.0,Female,2007,Advanced_Higher
-Art and Design Enquiry: Design,429.0,Female,2007,Advanced_Higher
-Art and Design Enquiry: Expressive,543.0,Female,2007,Advanced_Higher
-Art and Design: Research and Appreciation,21.0,Female,2007,Advanced_Higher
-Drama,223.0,Female,2007,Advanced_Higher
-Media Studies,4.0,Female,2007,Advanced_Higher
-Music,662.0,Female,2007,Advanced_Higher
-Physical Education,28.0,Female,2007,Advanced_Higher
-- as percentages,,Female,2007,Advanced_Higher
-MALE LEARNERS,,Male,2010,Advanced_Higher
-TITLE,ENTRIES,Male,2010,Advanced_Higher
-Cantonese,1.0,Male,2010,Advanced_Higher
-Classical Greek,0.0,Male,2010,Advanced_Higher
-English,594.0,Male,2010,Advanced_Higher
-French,182.0,Male,2010,Advanced_Higher
-Gaelic (Learners),2.0,Male,2010,Advanced_Higher
-Gàidhlig,7.0,Male,2010,Advanced_Higher
-German,53.0,Male,2010,Advanced_Higher
-Italian,10.0,Male,2010,Advanced_Higher
-Latin,22.0,Male,2010,Advanced_Higher
-Mandarin (Simplified),0.0,Male,2010,Advanced_Higher
-Spanish,61.0,Male,2010,Advanced_Higher
-Applied Mathematics,179.0,Male,2010,Advanced_Higher
-Accounting,30.0,Male,2010,Advanced_Higher
-Mathematics,1805.0,Male,2010,Advanced_Higher
-Biology,754.0,Male,2010,Advanced_Higher
-Chemistry,1151.0,Male,2010,Advanced_Higher
-Physics,1330.0,Male,2010,Advanced_Higher
-Classical Studies,28.0,Male,2010,Advanced_Higher
-Economics,54.0,Male,2010,Advanced_Higher
-Geography,391.0,Male,2010,Advanced_Higher
-History,527.0,Male,2010,Advanced_Higher
-Modern Studies,211.0,Male,2010,Advanced_Higher
-"Religious, Moral and Philosophical Studies",90.0,Male,2010,Advanced_Higher
-Administration,0.0,Male,2010,Advanced_Higher
-Business Management,81.0,Male,2010,Advanced_Higher
-Computing,344.0,Male,2010,Advanced_Higher
-Graphic Communication,572.0,Male,2010,Advanced_Higher
-Home Economics: Health and Food Technology,2.0,Male,2010,Advanced_Higher
-Information Systems,38.0,Male,2010,Advanced_Higher
-Product Design,33.0,Male,2010,Advanced_Higher
-Technological Studies,88.0,Male,2010,Advanced_Higher
-Art and Design: Design,149.0,Male,2010,Advanced_Higher
-Art and Design: Expressive,198.0,Male,2010,Advanced_Higher
-Drama,114.0,Male,2010,Advanced_Higher
-Media Studies,3.0,Male,2010,Advanced_Higher
-Music,591.0,Male,2010,Advanced_Higher
-Physical Education,64.0,Male,2010,Advanced_Higher
-Total,9759.0,Male,2010,Advanced_Higher
-- as percentages,,Male,2010,Advanced_Higher
-FEMALE LEARNERS,,Female,2010,Advanced_Higher
-TITLE,ENTRIES,Female,2010,Advanced_Higher
-Cantonese,0.0,Female,2010,Advanced_Higher
-Classical Greek,1.0,Female,2010,Advanced_Higher
-English,1244.0,Female,2010,Advanced_Higher
-French,520.0,Female,2010,Advanced_Higher
-Gaelic (Learners),13.0,Female,2010,Advanced_Higher
-Gàidhlig,18.0,Female,2010,Advanced_Higher
-German,108.0,Female,2010,Advanced_Higher
-Italian,24.0,Female,2010,Advanced_Higher
-Latin,23.0,Female,2010,Advanced_Higher
-Mandarin (Simplified),2.0,Female,2010,Advanced_Higher
-Spanish,186.0,Female,2010,Advanced_Higher
-Applied Mathematics,84.0,Female,2010,Advanced_Higher
-Accounting,20.0,Female,2010,Advanced_Higher
-Mathematics,1131.0,Female,2010,Advanced_Higher
-Biology,1423.0,Female,2010,Advanced_Higher
-Chemistry,1075.0,Female,2010,Advanced_Higher
-Physics,406.0,Female,2010,Advanced_Higher
-Classical Studies,32.0,Female,2010,Advanced_Higher
-Economics,22.0,Female,2010,Advanced_Higher
-Geography,482.0,Female,2010,Advanced_Higher
-History,666.0,Female,2010,Advanced_Higher
-Modern Studies,477.0,Female,2010,Advanced_Higher
-"Religious, Moral and Philosophical Studies",153.0,Female,2010,Advanced_Higher
-Administration,12.0,Female,2010,Advanced_Higher
-Business Management,143.0,Female,2010,Advanced_Higher
-Computing,70.0,Female,2010,Advanced_Higher
-Graphic Communication,226.0,Female,2010,Advanced_Higher
-Home Economics: Health and Food Technology,32.0,Female,2010,Advanced_Higher
-Information Systems,13.0,Female,2010,Advanced_Higher
-Product Design,39.0,Female,2010,Advanced_Higher
-Technological Studies,2.0,Female,2010,Advanced_Higher
-Art and Design: Design,555.0,Female,2010,Advanced_Higher
-Art and Design: Expressive,703.0,Female,2010,Advanced_Higher
-Drama,262.0,Female,2010,Advanced_Higher
-Media Studies,3.0,Female,2010,Advanced_Higher
-Music,614.0,Female,2010,Advanced_Higher
-Physical Education,42.0,Female,2010,Advanced_Higher
-Total,10826.0,Female,2010,Advanced_Higher
-- as percentages,,Female,2010,Advanced_Higher
-MALE LEARNERS,,Male,2013,Advanced_Higher
-TITLE,ENTRIES,Male,2013,Advanced_Higher
-Chinese Languages,9.0,Male,2013,Advanced_Higher
-English,559.0,Male,2013,Advanced_Higher
-French,159.0,Male,2013,Advanced_Higher
-Gaelic (Learners),2.0,Male,2013,Advanced_Higher
-Gàidhlig,4.0,Male,2013,Advanced_Higher
-German,50.0,Male,2013,Advanced_Higher
-Italian,3.0,Male,2013,Advanced_Higher
-Latin,12.0,Male,2013,Advanced_Higher
-Spanish,57.0,Male,2013,Advanced_Higher
-Accounting,24.0,Male,2013,Advanced_Higher
-Applied Mathematics,257.0,Male,2013,Advanced_Higher
-Mathematics,2060.0,Male,2013,Advanced_Higher
-Biology,830.0,Male,2013,Advanced_Higher
-Biology (Revised),4.0,Male,2013,Advanced_Higher
-Chemistry,1324.0,Male,2013,Advanced_Higher
-Chemistry (Revised),62.0,Male,2013,Advanced_Higher
-Physics,1454.0,Male,2013,Advanced_Higher
-Physics (Revised),55.0,Male,2013,Advanced_Higher
-Classical Studies,11.0,Male,2013,Advanced_Higher
-Economics,64.0,Male,2013,Advanced_Higher
-Geography,333.0,Male,2013,Advanced_Higher
-History,472.0,Male,2013,Advanced_Higher
-Modern Studies,268.0,Male,2013,Advanced_Higher
-"Religious, Moral and Philosophical Studies",66.0,Male,2013,Advanced_Higher
-Business Management,82.0,Male,2013,Advanced_Higher
-Computing,373.0,Male,2013,Advanced_Higher
-Graphic Communication,633.0,Male,2013,Advanced_Higher
-Home Economics: Health and Food Technology,4.0,Male,2013,Advanced_Higher
-Information Systems,32.0,Male,2013,Advanced_Higher
-Product Design,45.0,Male,2013,Advanced_Higher
-Technological Studies,49.0,Male,2013,Advanced_Higher
-Art and Design: Design,114.0,Male,2013,Advanced_Higher
-Art and Design: Expressive,166.0,Male,2013,Advanced_Higher
-Drama,94.0,Male,2013,Advanced_Higher
-Music,712.0,Male,2013,Advanced_Higher
-Physical Education,98.0,Male,2013,Advanced_Higher
-Total,10541.0,Male,2013,Advanced_Higher
-- as percentages,,Male,2013,Advanced_Higher
-FEMALE LEARNERS,,Female,2013,Advanced_Higher
-TITLE,ENTRIES,Female,2013,Advanced_Higher
-Chinese Languages,14.0,Female,2013,Advanced_Higher
-English,1184.0,Female,2013,Advanced_Higher
-French,514.0,Female,2013,Advanced_Higher
-Gaelic (Learners),19.0,Female,2013,Advanced_Higher
-Gàidhlig,15.0,Female,2013,Advanced_Higher
-German,88.0,Female,2013,Advanced_Higher
-Italian,21.0,Female,2013,Advanced_Higher
-Latin,36.0,Female,2013,Advanced_Higher
-Spanish,191.0,Female,2013,Advanced_Higher
-Accounting,21.0,Female,2013,Advanced_Higher
-Applied Mathematics,104.0,Female,2013,Advanced_Higher
-Mathematics,1254.0,Female,2013,Advanced_Higher
-Biology,1628.0,Female,2013,Advanced_Higher
-Biology (Revised),8.0,Female,2013,Advanced_Higher
-Chemistry,1221.0,Female,2013,Advanced_Higher
-Chemistry (Revised),49.0,Female,2013,Advanced_Higher
-Physics,413.0,Female,2013,Advanced_Higher
-Physics (Revised),7.0,Female,2013,Advanced_Higher
-Classical Studies,35.0,Female,2013,Advanced_Higher
-Economics,17.0,Female,2013,Advanced_Higher
-Geography,474.0,Female,2013,Advanced_Higher
-History,736.0,Female,2013,Advanced_Higher
-Modern Studies,565.0,Female,2013,Advanced_Higher
-"Religious, Moral and Philosophical Studies",182.0,Female,2013,Advanced_Higher
-Business Management,108.0,Female,2013,Advanced_Higher
-Computing,62.0,Female,2013,Advanced_Higher
-Graphic Communication,317.0,Female,2013,Advanced_Higher
-Home Economics: Health and Food Technology,32.0,Female,2013,Advanced_Higher
-Information Systems,17.0,Female,2013,Advanced_Higher
-Product Design,33.0,Female,2013,Advanced_Higher
-Technological Studies,7.0,Female,2013,Advanced_Higher
-Art and Design: Design,483.0,Female,2013,Advanced_Higher
-Art and Design: Expressive,731.0,Female,2013,Advanced_Higher
-Drama,218.0,Female,2013,Advanced_Higher
-Music,728.0,Female,2013,Advanced_Higher
-Physical Education,46.0,Female,2013,Advanced_Higher
-Total,11578.0,Female,2013,Advanced_Higher
-- as percentages,,Female,2013,Advanced_Higher

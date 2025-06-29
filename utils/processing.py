@@ -1,109 +1,101 @@
 import os
 import pandas as pd
-from utils import readexcel
-from utils import cache
+from utils import readexcel, cache
 
-SUBJECT_NAMES = []
+ALL_SUBJECT_NAMES = set()
 
-def save_subject_names(s, filepath="subject_names.csv"):
-    # De-duplicate the list
-    unique_subjects = sorted(set(s))  # sorted is optional, just for neatness
+def extract_metadata(df, year_coords, gender_coords):
+    import re
+    year_cell = str(df.iat[year_coords[0], year_coords[1]])
+    match = re.search(r"\b(19|20)\d{2}\b", year_cell)
+    year = int(match.group(0)) if match else None
 
-    # Save to CSV using pandas
-    df = pd.DataFrame(unique_subjects, columns=["Subject"])
+    gender_cell = str(df.iat[gender_coords[0], gender_coords[1]])
+    gender = gender_cell.split()[0].capitalize()
+    
+    return year, gender
+
+def is_valid_subject(subject, exclude_keywords):
+    if not isinstance(subject, str):
+        return False
+    subject = subject.strip().lower()
+    return not any(keyword.lower() in subject for keyword in exclude_keywords)
+
+
+def save_subject_names(filepath="subject_names.csv"):
+    df = pd.DataFrame(sorted(ALL_SUBJECT_NAMES), columns=["Subject"])
     df.to_csv(filepath, index=False)
 
-
-# Takes in one excel file and returns the processed output of all the included sheets
-def process_file(c, processed_cache, output_dir, rows_to_exclude):
-
+def process_file(config, processed_cache, output_dir, exclude_keywords):
     overall_output_df = pd.DataFrame()
     
-    for filename in os.listdir(c.folder):
-        combined_df = pd.DataFrame()
-        if filename.endswith((".xls", "xlsx")):
-            file_path = os.path.join(c.folder, filename)
+    for filename in os.listdir(config.folder):
+        if not filename.endswith((".xls", ".xlsx")):
+            continue
 
-            if cache.was_processed(processed_cache, file_path):
-                print(f"🔄 Skipping already processed file: {filename}")
-                continue
-            
-            print(f"\nProcessing file: {filename}")
-            processed_sheet, year = process_sheet(c, file_path, filename, rows_to_exclude)
-            
-            combined_df = pd.concat([combined_df, processed_sheet], ignore_index=True)
-            overall_output_df = pd.concat([combined_df, processed_sheet], ignore_index=True)
-        # save_to_file(combined_df, c, output_dir, year)
+        file_path = os.path.join(config.folder, filename)
+        if cache.was_processed(processed_cache, file_path):
+            print(f"🔄 Skipping already processed file: {filename}")
+            continue
+
+        print(f"\n📄 Processing file: {filename}")
+        processed_df, year = process_sheet(config, file_path, filename, exclude_keywords)
+        overall_output_df = pd.concat([overall_output_df, processed_df], ignore_index=True)
+        
+        if not processed_df.empty:
+            save_to_file(processed_df, config, output_dir, year)
+
         cache.mark_processed(processed_cache, file_path)
 
     return overall_output_df
 
-# Takes in one sheet and returns the processed output
-def process_sheet(c, file_path, filename, rows_to_exclude):
+def process_sheet(config, file_path, filename, exclude_keywords):
+    combined_df = pd.DataFrame()
     
-    combined_df = pd.DataFrame()    # male and females
-    
-    for sheet_name in c.sheets:
-        print(f"Reading sheet: {sheet_name}")
+    for sheet_name in config.sheets:
+        print(f"📄 Reading sheet: {sheet_name}")
         df = readexcel.read_sheet_with_xlwings(file_path, sheet_name)
         if df.empty:
-            print(f"Skipping {sheet_name} — sheet is empty or failed to load.")
+            print(f"⚠️  Skipping {sheet_name} — empty or failed to load.")
             continue
 
-        try: 
-            year_cell = str(df.iat[c.year_coords[0], c.year_coords[1]])
-            year = year_cell.split(",")[-1].strip()
-            year_cell = str(df.iat[c.year_coords[0], c.year_coords[1]])
-            year_text = year_cell.split(",")[-1].strip()
-            
-            # Ensure the year is a 4-digit number
-            import re
-            match = re.search(r"\b(19|20)\d{2}\b", year_text)
-            if match:
-                year = int(match.group(0))
-            else:
-                raise ValueError(f"Could not extract valid year from cell: '{year_cell}'")
-            
-            gender_cell = str(df.iat[c.gender_coords[0], c.gender_coords[1]])
-            gender = gender_cell.split()[0].capitalize()
+        try:
+            year, gender = extract_metadata(df, config.year_coords, config.gender_coords)
             
             df_filtered = (
                 df.iloc[3:, [0, 1]]
                 .dropna(how="all")
                 .rename(columns={0: "Subject", 1: "Entries"})
             )
-            s = df_filtered["Subject"].tolist()
-            save_subject_names(s)
 
-            # drop rows that are not subjects
-            df_filtered = df_filtered[~df_filtered["Subject"].isin(rows_to_exclude)]
-            
-            
+            subjects = df_filtered["Subject"].astype(str).str.strip().tolist()
+            ALL_SUBJECT_NAMES.update(subjects)
+
+            df_filtered = df_filtered[df_filtered["Subject"].apply(lambda x: is_valid_subject(x, exclude_keywords))]
+
             df_filtered["Gender"] = gender
             df_filtered["Year"] = year
-            df_filtered["Level"] = c.level
-            
+            df_filtered["Level"] = config.level
+
             combined_df = pd.concat([combined_df, df_filtered], ignore_index=True)
-        
+
         except Exception as e:
-            print(f"Error parsing {sheet_name} in {filename}: {e}")
-    
+            print(f"❌ Error in {sheet_name} ({filename}): {e}")
+
     return combined_df, year
 
-# Saves the output to a file in the format `LEVEL_YEAR_xlsx` i.e `Intermediate_2_2000.xlsx`
+
 def save_to_file(df, c, output_dir, year):
+   
+    # Check output file exists
+    os.makedirs(output_dir, exist_ok=True)
     
     # Construct output file name
     safe_level = c.level.replace(" ", "_")
     output_filename = f"{safe_level}_{year}.xlsx"
     output_path = os.path.join(output_dir, output_filename)
-    
-    # Save or append to file
-    if os.path.exists(output_path):
-        existing_df = pd.read_excel(output_path)
-        combined = pd.concat([existing_df, df], ignore_index=True)
-    else:
-        combined = df
-        combined.to_excel(output_path, index=False)
-        print(f"✅ Saved to {output_filename}")
-    
+
+    # Always overwrite the file
+    df.to_excel(output_path, index=False)
+    print(f"✅ Saved to {output_filename}")
+
