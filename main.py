@@ -1,19 +1,28 @@
 import os
 import pandas as pd
 from utils import processing, cache
-from sheet_config import SheetConfig
+from model.sheet_config import SheetConfig
 
-# === OVERALL CONFIG ===
-subjects_to_include = [
-    "Biology", "Chemistry", "Computing",
-    "English and Communication", "French",
-    "Mathematics", "Physics","English"
-]
+# === CONFIGURATION ===
 
 OUTPUT_FILE = "combined_output.csv"
 OUTPUT_DIR = "output"
-processed_cache = cache.load_cache()
-combined_df = pd.DataFrame()
+SUBJECT_OUTPUT_FILE = "subject_names.csv"
+
+exclude_keywords = [
+    "Awards in the optional Writing Element for Gaelic (Learners) are made at grades 1 to 4 only.",
+    "as percentages",
+    "FEMALE CANDIDATES",
+    "FEMALE LEARNERS",
+    "MALE CANDIDATES",
+    "MALE LEARNERS",
+    "SUBJECT",
+    "Subtotal",
+    "Subtotals",
+    "TITLE",
+    "Total",
+    "Totals"
+]
 
 sheet_configs = [
     SheetConfig("Intermediate_2", r"data\Standard Grade\IM2", ["IB4a", "IB4b"], gender_cell="A3", year_cell="A1"),
@@ -31,36 +40,45 @@ sheet_configs = [
     # SheetConfig("Advanced_Higher", r"data\Advanced Higher\2011-2012", ["AH5a", "AH5b"], gender_cell="A6", year_cell="A3"),
 ]
 
+# === MAIN EXECUTION ===
 
-# === PROCESSING ===
+processed_cache = cache.load_cache()
+combined_df = pd.DataFrame()
+
 for config in sheet_configs:
-    df = processing.process_sheet_with_params(
-        config,
-        subjects_to_include,
-        processed_cache,
-        OUTPUT_DIR
+    df = processing.process_file(
+        config, 
+        processed_cache, 
+        OUTPUT_DIR,
+        exclude_keywords
     )
-
     combined_df = pd.concat([combined_df, df], ignore_index=True)
 
-# === APPEND TO EXISTING OUTPUT (IF ANY) ===
+# Append to existing file if needed
 if os.path.exists(OUTPUT_FILE):
     try:
         existing_df = pd.read_csv(OUTPUT_FILE)
         combined_df = pd.concat([existing_df, combined_df], ignore_index=True)
     except pd.errors.EmptyDataError:
-        print(f"⚠️  Output file '{OUTPUT_FILE}' exists but is empty. Proceeding with new data only.")
+        print(f"⚠️  Output file '{OUTPUT_FILE}' exists but is empty.")
 
+# De-duplicate and save
+# Clean up for deduplication
+combined_df["Subject"] = combined_df["Subject"].astype(str).str.strip()
+combined_df["Level"] = combined_df["Level"].astype(str).str.strip()
+combined_df["Gender"] = combined_df["Gender"].astype(str).str.strip()
+combined_df["Entries"] = pd.to_numeric(combined_df["Entries"], errors='coerce')
 
-# === OPTIONAL: DE-DUPLICATE ===
+# Drop duplicates across the key columns
 combined_df.drop_duplicates(
     subset=["Year", "Gender", "Subject", "Level", "Entries"],
     inplace=True
 )
 
-# === SAVE OUTPUT ===
 combined_df.to_csv(OUTPUT_FILE, index=False)
-print("\n✅ Final combined data saved to:", OUTPUT_FILE)
+print("✅ Final combined data saved to:", OUTPUT_FILE)
 
-# === SAVE CACHE ===
+# Save cache and subjects
 cache.save_cache(processed_cache)
+processing.save_subject_names(SUBJECT_OUTPUT_FILE)
+print("📘 Subject names saved to:", SUBJECT_OUTPUT_FILE)

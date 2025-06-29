@@ -1,555 +1,385 @@
 Subject,Entries,Gender,Year,Level
-English,29583.0,Male,2006,Standard Grade
-French,15794.0,Male,2006,Standard Grade
-Mathematics,27090.0,Male,2006,Standard Grade
-Biology,7193.0,Male,2006,Standard Grade
-Chemistry,10198.0,Male,2006,Standard Grade
-Physics,12328.0,Male,2006,Standard Grade
-English,29250.0,Female,2006,Standard Grade
-French,18046.0,Female,2006,Standard Grade
-Mathematics,26692.0,Female,2006,Standard Grade
-Biology,16007.0,Female,2006,Standard Grade
-Chemistry,10490.0,Female,2006,Standard Grade
-Physics,4736.0,Female,2006,Standard Grade
-English,27168.0,Male,2009,Standard Grade
-French,12853.0,Male,2009,Standard Grade
-Mathematics,23724.0,Male,2009,Standard Grade
-Biology,6896.0,Male,2009,Standard Grade
-Chemistry,9549.0,Male,2009,Standard Grade
-Physics,10530.0,Male,2009,Standard Grade
-English,26761.0,Female,2009,Standard Grade
-French,15134.0,Female,2009,Standard Grade
-Mathematics,23058.0,Female,2009,Standard Grade
-Biology,14133.0,Female,2009,Standard Grade
-Chemistry,9926.0,Female,2009,Standard Grade
-Physics,4250.0,Female,2009,Standard Grade
-English,30609.0,Male,2003,Standard Grade
-French,18150.0,Male,2003,Standard Grade
-Mathematics,30068.0,Male,2003,Standard Grade
-Biology,6631.0,Male,2003,Standard Grade
-Chemistry,11201.0,Male,2003,Standard Grade
-Physics,13742.0,Male,2003,Standard Grade
-English,30041.0,Female,2003,Standard Grade
-French,19838.0,Female,2003,Standard Grade
-Mathematics,29373.0,Female,2003,Standard Grade
-Biology,16529.0,Female,2003,Standard Grade
-Chemistry,11420.0,Female,2003,Standard Grade
-Physics,5394.0,Female,2003,Standard Grade
-English,29965.0,Male,2004,Standard Grade
-French,17227.0,Male,2004,Standard Grade
-Mathematics,28740.0,Male,2004,Standard Grade
-Biology,6822.0,Male,2004,Standard Grade
-Chemistry,10749.0,Male,2004,Standard Grade
-Physics,13090.0,Male,2004,Standard Grade
-English,29444.0,Female,2004,Standard Grade
-French,19079.0,Female,2004,Standard Grade
-Mathematics,28033.0,Female,2004,Standard Grade
-Biology,16164.0,Female,2004,Standard Grade
-Chemistry,10941.0,Female,2004,Standard Grade
-Physics,5080.0,Female,2004,Standard Grade
-English,28797.0,Male,2005,Standard Grade
-French,16078.0,Male,2005,Standard Grade
-Mathematics,27152.0,Male,2005,Standard Grade
-Biology,6644.0,Male,2005,Standard Grade
-Chemistry,10331.0,Male,2005,Standard Grade
-Physics,12299.0,Male,2005,Standard Grade
-English,28517.0,Female,2005,Standard Grade
-French,18197.0,Female,2005,Standard Grade
-Mathematics,26690.0,Female,2005,Standard Grade
-Biology,15569.0,Female,2005,Standard Grade
-Chemistry,10545.0,Female,2005,Standard Grade
-Physics,4618.0,Female,2005,Standard Grade
-English,29104.0,Male,2008,Standard Grade
-French,14375.0,Male,2008,Standard Grade
-Mathematics,25843.0,Male,2008,Standard Grade
-Biology,7306.0,Male,2008,Standard Grade
-Chemistry,9736.0,Male,2008,Standard Grade
-Physics,10970.0,Male,2008,Standard Grade
-English,28814.0,Female,2008,Standard Grade
-French,16405.0,Female,2008,Standard Grade
-Mathematics,25139.0,Female,2008,Standard Grade
-Biology,15013.0,Female,2008,Standard Grade
-Chemistry,10037.0,Female,2008,Standard Grade
-Physics,4329.0,Female,2008,Standard Grade
-English,30156.0,Male,2007,Standard Grade
-French,15104.0,Male,2007,Standard Grade
-Mathematics,27324.0,Male,2007,Standard Grade
-Biology,7116.0,Male,2007,Standard Grade
-Chemistry,9876.0,Male,2007,Standard Grade
-Physics,11567.0,Male,2007,Standard Grade
-English,29577.0,Female,2007,Standard Grade
-French,17214.0,Female,2007,Standard Grade
-Mathematics,26655.0,Female,2007,Standard Grade
-Biology,15671.0,Female,2007,Standard Grade
-Chemistry,10202.0,Female,2007,Standard Grade
-Physics,4373.0,Female,2007,Standard Grade
-English and Communication,1566.0,Male,2000,Standard Grade
-French,127.0,Male,2000,Standard Grade
-Mathematics,4427.0,Male,2000,Standard Grade
-Biology,775.0,Male,2000,Standard Grade
-Chemistry,588.0,Male,2000,Standard Grade
-Physics,1152.0,Male,2000,Standard Grade
-Computing,534.0,Male,2000,Standard Grade
-English and Communication,1634.0,Female,2000,Standard Grade
-French,461.0,Female,2000,Standard Grade
-Mathematics,4402.0,Female,2000,Standard Grade
-Biology,1767.0,Female,2000,Standard Grade
-Chemistry,630.0,Female,2000,Standard Grade
-Physics,451.0,Female,2000,Standard Grade
-Computing,229.0,Female,2000,Standard Grade
-English and Communication,5927.0,Male,2001,Standard Grade
-French,243.0,Male,2001,Standard Grade
-Mathematics,5862.0,Male,2001,Standard Grade
-Biology,1006.0,Male,2001,Standard Grade
-Chemistry,715.0,Male,2001,Standard Grade
-Physics,1395.0,Male,2001,Standard Grade
-Computing,1314.0,Male,2001,Standard Grade
-English and Communication,5417.0,Female,2001,Standard Grade
-French,701.0,Female,2001,Standard Grade
-Mathematics,5886.0,Female,2001,Standard Grade
-Biology,2418.0,Female,2001,Standard Grade
-Chemistry,775.0,Female,2001,Standard Grade
-Physics,454.0,Female,2001,Standard Grade
-Computing,522.0,Female,2001,Standard Grade
-English and Communication,7215.0,Male,2002,Standard Grade
-French,277.0,Male,2002,Standard Grade
-Mathematics,6414.0,Male,2002,Standard Grade
-Biology,1141.0,Male,2002,Standard Grade
-Chemistry,755.0,Male,2002,Standard Grade
-Physics,1502.0,Male,2002,Standard Grade
-Computing,1577.0,Male,2002,Standard Grade
-English and Communication,6429.0,Female,2002,Standard Grade
-French,809.0,Female,2002,Standard Grade
-Mathematics,6113.0,Female,2002,Standard Grade
-Biology,2351.0,Female,2002,Standard Grade
-Chemistry,678.0,Female,2002,Standard Grade
-Physics,380.0,Female,2002,Standard Grade
-Computing,603.0,Female,2002,Standard Grade
-English,26104.0,Male,2010,Standard Grade
-French,11689.0,Male,2010,Standard Grade
-Mathematics,22106.0,Male,2010,Standard Grade
-Biology,6769.0,Male,2010,Standard Grade
-Chemistry,9209.0,Male,2010,Standard Grade
-Physics,10328.0,Male,2010,Standard Grade
-English,25862.0,Female,2010,Standard Grade
-French,13951.0,Female,2010,Standard Grade
-Mathematics,21884.0,Female,2010,Standard Grade
-Biology,13801.0,Female,2010,Standard Grade
-Chemistry,9697.0,Female,2010,Standard Grade
-Physics,4243.0,Female,2010,Standard Grade
-English,25551.0,Male,2011,Standard Grade
-French,10702.0,Male,2011,Standard Grade
-Mathematics,21756.0,Male,2011,Standard Grade
-Biology,6880.0,Male,2011,Standard Grade
-Chemistry,9377.0,Male,2011,Standard Grade
-Physics,10266.0,Male,2011,Standard Grade
-English,24749.0,Female,2011,Standard Grade
-French,12846.0,Female,2011,Standard Grade
-Mathematics,20900.0,Female,2011,Standard Grade
-Biology,13435.0,Female,2011,Standard Grade
-Chemistry,9644.0,Female,2011,Standard Grade
-Physics,4176.0,Female,2011,Standard Grade
-English,24898.0,Male,2012,Standard Grade
-French,9813.0,Male,2012,Standard Grade
-Mathematics,20792.0,Male,2012,Standard Grade
-Biology,7128.0,Male,2012,Standard Grade
-Chemistry,9162.0,Male,2012,Standard Grade
-Physics,10018.0,Male,2012,Standard Grade
-English,24195.0,Female,2012,Standard Grade
-French,12209.0,Female,2012,Standard Grade
-Mathematics,20089.0,Female,2012,Standard Grade
-Biology,13209.0,Female,2012,Standard Grade
-Chemistry,9585.0,Female,2012,Standard Grade
-Physics,4209.0,Female,2012,Standard Grade
-English and Communication,2216.0,Male,2000,Higher
-French,925.0,Male,2000,Higher
-Mathematics,10342.0,Male,2000,Higher
-Biology,2843.0,Male,2000,Higher
-Chemistry,3585.0,Male,2000,Higher
-Physics,6814.0,Male,2000,Higher
-Computing,1751.0,Male,2000,Higher
-English and Communication,3085.0,Female,2000,Higher
-French,2872.0,Female,2000,Higher
-Mathematics,9708.0,Female,2000,Higher
-Biology,6394.0,Female,2000,Higher
-Chemistry,3894.0,Female,2000,Higher
-Physics,2758.0,Female,2000,Higher
-Computing,650.0,Female,2000,Higher
-English and Communication,6509.0,Male,2001,Higher
-French,937.0,Male,2001,Higher
-Mathematics,10500.0,Male,2001,Higher
-Biology,2764.0,Male,2001,Higher
-Chemistry,4766.0,Male,2001,Higher
-Physics,7076.0,Male,2001,Higher
-Computing,3335.0,Male,2001,Higher
-English and Communication,9614.0,Female,2001,Higher
-French,3335.0,Female,2001,Higher
-Mathematics,10230.0,Female,2001,Higher
-Biology,6545.0,Female,2001,Higher
-Chemistry,5137.0,Female,2001,Higher
-Physics,2939.0,Female,2001,Higher
-Computing,1269.0,Female,2001,Higher
-English and Communication,12180.0,Male,2002,Higher
-French,1105.0,Male,2002,Higher
-Mathematics,10256.0,Male,2002,Higher
-Biology,2796.0,Male,2002,Higher
-Chemistry,4739.0,Male,2002,Higher
-Physics,6886.0,Male,2002,Higher
-Computing,3295.0,Male,2002,Higher
-English and Communication,16730.0,Female,2002,Higher
-French,3666.0,Female,2002,Higher
-Mathematics,9534.0,Female,2002,Higher
-Biology,6478.0,Female,2002,Higher
-Chemistry,4821.0,Female,2002,Higher
-Physics,2694.0,Female,2002,Higher
-Computing,1185.0,Female,2002,Higher
-English,11118.0,Male,2006,Higher
-French,998.0,Male,2006,Higher
-Mathematics,9615.0,Male,2006,Higher
-Biology,3018.0,Male,2006,Higher
-Chemistry,4693.0,Male,2006,Higher
-Physics,6196.0,Male,2006,Higher
-English,16398.0,Female,2006,Higher
-French,3294.0,Female,2006,Higher
-Mathematics,9008.0,Female,2006,Higher
-Biology,6026.0,Female,2006,Higher
-Chemistry,4475.0,Female,2006,Higher
-Physics,2421.0,Female,2006,Higher
-English,12467.0,Male,2003,Higher
-French,1113.0,Male,2003,Higher
-Mathematics,10356.0,Male,2003,Higher
-Biology,2795.0,Male,2003,Higher
-Chemistry,4628.0,Male,2003,Higher
-Physics,6806.0,Male,2003,Higher
-Computing,3600.0,Male,2003,Higher
-English,17157.0,Female,2003,Higher
-French,3773.0,Female,2003,Higher
-Mathematics,9610.0,Female,2003,Higher
-Biology,6125.0,Female,2003,Higher
-Chemistry,4664.0,Female,2003,Higher
-Physics,2683.0,Female,2003,Higher
-Computing,1153.0,Female,2003,Higher
-English,11445.0,Male,2009,Higher
-French,1163.0,Male,2009,Higher
-Mathematics,10145.0,Male,2009,Higher
-Biology,3238.0,Male,2009,Higher
-Chemistry,4813.0,Male,2009,Higher
-Physics,6446.0,Male,2009,Higher
-English,16994.0,Female,2009,Higher
-French,3414.0,Female,2009,Higher
-Mathematics,9493.0,Female,2009,Higher
-Biology,5869.0,Female,2009,Higher
-Chemistry,4769.0,Female,2009,Higher
-Physics,2556.0,Female,2009,Higher
-English,12101.0,Male,2004,Higher
-French,1132.0,Male,2004,Higher
-Mathematics,10233.0,Male,2004,Higher
-Biology,2761.0,Male,2004,Higher
-Chemistry,4620.0,Male,2004,Higher
-Physics,6681.0,Male,2004,Higher
-Computing,3868.0,Male,2004,Higher
-English,16772.0,Female,2004,Higher
-French,3482.0,Female,2004,Higher
-Mathematics,9161.0,Female,2004,Higher
-Biology,6091.0,Female,2004,Higher
-Chemistry,4651.0,Female,2004,Higher
-Physics,2605.0,Female,2004,Higher
-Computing,1222.0,Female,2004,Higher
-English,11827.0,Male,2005,Higher
-French,1096.0,Male,2005,Higher
-Mathematics,9969.0,Male,2005,Higher
-Biology,2847.0,Male,2005,Higher
-Chemistry,4657.0,Male,2005,Higher
-Physics,6397.0,Male,2005,Higher
-Computing,1439.0,Male,2005,Higher
-English,16880.0,Female,2005,Higher
-French,3419.0,Female,2005,Higher
-Mathematics,9212.0,Female,2005,Higher
-Biology,6096.0,Female,2005,Higher
-Chemistry,4754.0,Female,2005,Higher
-Physics,2555.0,Female,2005,Higher
-Computing,505.0,Female,2005,Higher
-English,11117.0,Male,2008,Higher
-French,1125.0,Male,2008,Higher
-Mathematics,10140.0,Male,2008,Higher
-Biology,3114.0,Male,2008,Higher
-Chemistry,4858.0,Male,2008,Higher
-Physics,6386.0,Male,2008,Higher
-English,16089.0,Female,2008,Higher
-French,3477.0,Female,2008,Higher
-Mathematics,9496.0,Female,2008,Higher
-Biology,6018.0,Female,2008,Higher
-Chemistry,4647.0,Female,2008,Higher
-Physics,2379.0,Female,2008,Higher
-English,11283.0,Male,2007,Higher
-French,1136.0,Male,2007,Higher
-Mathematics,9646.0,Male,2007,Higher
-Biology,3029.0,Male,2007,Higher
-Chemistry,4709.0,Male,2007,Higher
-Physics,6180.0,Male,2007,Higher
-English,16502.0,Female,2007,Higher
-French,3438.0,Female,2007,Higher
-Mathematics,9146.0,Female,2007,Higher
-Biology,6140.0,Female,2007,Higher
-Chemistry,4781.0,Female,2007,Higher
-Physics,2402.0,Female,2007,Higher
-English,11935.0,Male,2010,Higher
-French,1133.0,Male,2010,Higher
-Mathematics,10765.0,Male,2010,Higher
-Biology,3382.0,Male,2010,Higher
-Chemistry,5120.0,Male,2010,Higher
-Physics,6544.0,Male,2010,Higher
-Computing,3313.0,Male,2010,Higher
-English,17594.0,Female,2010,Higher
-French,3462.0,Female,2010,Higher
-Mathematics,9892.0,Female,2010,Higher
-Biology,5926.0,Female,2010,Higher
-Chemistry,5059.0,Female,2010,Higher
-Physics,2474.0,Female,2010,Higher
-Computing,1043.0,Female,2010,Higher
-English,12201.0,Male,2011,Higher
-French,1084.0,Male,2011,Higher
-Mathematics,10842.0,Male,2011,Higher
-Biology,3454.0,Male,2011,Higher
-Chemistry,5143.0,Male,2011,Higher
-Physics,6768.0,Male,2011,Higher
-Computing,3159.0,Male,2011,Higher
-English,17867.0,Female,2011,Higher
-French,3270.0,Female,2011,Higher
-Mathematics,9710.0,Female,2011,Higher
-Biology,6317.0,Female,2011,Higher
-Chemistry,5150.0,Female,2011,Higher
-Physics,2679.0,Female,2011,Higher
-Computing,969.0,Female,2011,Higher
-English,12202.0,Male,2012,Higher
-French,1145.0,Male,2012,Higher
-Mathematics,10709.0,Male,2012,Higher
-Biology,3437.0,Male,2012,Higher
-Chemistry,5282.0,Male,2012,Higher
-Physics,6516.0,Male,2012,Higher
-Computing,3106.0,Male,2012,Higher
-English,17519.0,Female,2012,Higher
-French,3546.0,Female,2012,Higher
-Mathematics,9857.0,Female,2012,Higher
-Biology,6117.0,Female,2012,Higher
-Chemistry,5082.0,Female,2012,Higher
-Physics,2655.0,Female,2012,Higher
-Computing,922.0,Female,2012,Higher
-English,504.0,,2000,Advanced Higher
-French,83.0,,2000,Advanced Higher
-Biology,381.0,,2000,Advanced Higher
-Chemistry,749.0,,2000,Advanced Higher
-Physics,862.0,,2000,Advanced Higher
-English,1106.0,,2000,Advanced Higher
-French,327.0,,2000,Advanced Higher
-Biology,876.0,,2000,Advanced Higher
-Chemistry,811.0,,2000,Advanced Higher
-Physics,243.0,,2000,Advanced Higher
-English and Communication,363.0,Male,2002,Advanced Higher
-French,114.0,Male,2002,Advanced Higher
-Mathematics,1531.0,Male,2002,Advanced Higher
-Biology,425.0,Male,2002,Advanced Higher
-Chemistry,887.0,Male,2002,Advanced Higher
-Physics,1081.0,Male,2002,Advanced Higher
-Computing,373.0,Male,2002,Advanced Higher
-English and Communication,842.0,Female,2002,Advanced Higher
-French,460.0,Female,2002,Advanced Higher
-Mathematics,1022.0,Female,2002,Advanced Higher
-Biology,1124.0,Female,2002,Advanced Higher
-Chemistry,882.0,Female,2002,Advanced Higher
-Physics,297.0,Female,2002,Advanced Higher
-Computing,66.0,Female,2002,Advanced Higher
-English and Communication,143.0,Male,2001,Advanced Higher
-French,63.0,Male,2001,Advanced Higher
-Mathematics,705.0,Male,2001,Advanced Higher
-Biology,103.0,Male,2001,Advanced Higher
-Chemistry,269.0,Male,2001,Advanced Higher
-Physics,801.0,Male,2001,Advanced Higher
-Computing,88.0,Male,2001,Advanced Higher
-English and Communication,318.0,Female,2001,Advanced Higher
-French,252.0,Female,2001,Advanced Higher
-Mathematics,494.0,Female,2001,Advanced Higher
-Biology,293.0,Female,2001,Advanced Higher
-Chemistry,323.0,Female,2001,Advanced Higher
-Physics,225.0,Female,2001,Advanced Higher
-Computing,17.0,Female,2001,Advanced Higher
-English,554.0,Male,2006,Advanced Higher
-French,150.0,Male,2006,Advanced Higher
-Mathematics,1596.0,Male,2006,Advanced Higher
-Biology,596.0,Male,2006,Advanced Higher
-Chemistry,1009.0,Male,2006,Advanced Higher
-Physics,1124.0,Male,2006,Advanced Higher
-Computing,391.0,Male,2006,Advanced Higher
-English,1033.0,Female,2006,Advanced Higher
-French,492.0,Female,2006,Advanced Higher
-Mathematics,1002.0,Female,2006,Advanced Higher
-Biology,1290.0,Female,2006,Advanced Higher
-Chemistry,1007.0,Female,2006,Advanced Higher
-Physics,313.0,Female,2006,Advanced Higher
-Computing,59.0,Female,2006,Advanced Higher
-English,533.0,Male,2003,Advanced Higher
-French,116.0,Male,2003,Advanced Higher
-Mathematics,1562.0,Male,2003,Advanced Higher
-Biology,449.0,Male,2003,Advanced Higher
-Chemistry,876.0,Male,2003,Advanced Higher
-Physics,1141.0,Male,2003,Advanced Higher
-Computing,422.0,Male,2003,Advanced Higher
-English,1171.0,Female,2003,Advanced Higher
-French,520.0,Female,2003,Advanced Higher
-Mathematics,957.0,Female,2003,Advanced Higher
-Biology,1180.0,Female,2003,Advanced Higher
-Chemistry,896.0,Female,2003,Advanced Higher
-Physics,273.0,Female,2003,Advanced Higher
-Computing,73.0,Female,2003,Advanced Higher
-English,518.0,Male,2009,Advanced Higher
-French,165.0,Male,2009,Advanced Higher
-Mathematics,1801.0,Male,2009,Advanced Higher
-Biology,748.0,Male,2009,Advanced Higher
-Chemistry,1131.0,Male,2009,Advanced Higher
-Physics,1230.0,Male,2009,Advanced Higher
-Computing,346.0,Male,2009,Advanced Higher
-English,1072.0,Female,2009,Advanced Higher
-French,545.0,Female,2009,Advanced Higher
-Mathematics,1226.0,Female,2009,Advanced Higher
-Biology,1347.0,Female,2009,Advanced Higher
-Chemistry,1052.0,Female,2009,Advanced Higher
-Physics,320.0,Female,2009,Advanced Higher
-Computing,65.0,Female,2009,Advanced Higher
-English,540.0,Male,2004,Advanced Higher
-French,152.0,Male,2004,Advanced Higher
-Mathematics,1455.0,Male,2004,Advanced Higher
-Biology,439.0,Male,2004,Advanced Higher
-Chemistry,857.0,Male,2004,Advanced Higher
-Physics,1079.0,Male,2004,Advanced Higher
-Computing,444.0,Male,2004,Advanced Higher
-English,1180.0,Female,2004,Advanced Higher
-French,560.0,Female,2004,Advanced Higher
-Mathematics,961.0,Female,2004,Advanced Higher
-Biology,1132.0,Female,2004,Advanced Higher
-Chemistry,890.0,Female,2004,Advanced Higher
-Physics,335.0,Female,2004,Advanced Higher
-Computing,68.0,Female,2004,Advanced Higher
-English,515.0,Male,2005,Advanced Higher
-French,137.0,Male,2005,Advanced Higher
-Mathematics,1429.0,Male,2005,Advanced Higher
-Biology,476.0,Male,2005,Advanced Higher
-Chemistry,889.0,Male,2005,Advanced Higher
-Physics,1097.0,Male,2005,Advanced Higher
-Computing,437.0,Male,2005,Advanced Higher
-English,1058.0,Female,2005,Advanced Higher
-French,462.0,Female,2005,Advanced Higher
-Mathematics,889.0,Female,2005,Advanced Higher
-Biology,1217.0,Female,2005,Advanced Higher
-Chemistry,903.0,Female,2005,Advanced Higher
-Physics,329.0,Female,2005,Advanced Higher
-Computing,62.0,Female,2005,Advanced Higher
-English,567.0,Male,2008,Advanced Higher
-French,140.0,Male,2008,Advanced Higher
-Mathematics,1624.0,Male,2008,Advanced Higher
-Biology,622.0,Male,2008,Advanced Higher
-Chemistry,1037.0,Male,2008,Advanced Higher
-Physics,1095.0,Male,2008,Advanced Higher
-Computing,301.0,Male,2008,Advanced Higher
-English,1146.0,Female,2008,Advanced Higher
-French,579.0,Female,2008,Advanced Higher
-Mathematics,1128.0,Female,2008,Advanced Higher
-Biology,1333.0,Female,2008,Advanced Higher
-Chemistry,1106.0,Female,2008,Advanced Higher
-Physics,308.0,Female,2008,Advanced Higher
-Computing,65.0,Female,2008,Advanced Higher
-English,542.0,Male,2007,Advanced Higher
-French,138.0,Male,2007,Advanced Higher
-Mathematics,1505.0,Male,2007,Advanced Higher
-Biology,648.0,Male,2007,Advanced Higher
-Chemistry,1109.0,Male,2007,Advanced Higher
-Physics,1093.0,Male,2007,Advanced Higher
-Computing,300.0,Male,2007,Advanced Higher
-English,1078.0,Female,2007,Advanced Higher
-French,486.0,Female,2007,Advanced Higher
-Mathematics,979.0,Female,2007,Advanced Higher
-Biology,1281.0,Female,2007,Advanced Higher
-Chemistry,930.0,Female,2007,Advanced Higher
-Physics,287.0,Female,2007,Advanced Higher
-Computing,49.0,Female,2007,Advanced Higher
-English,594.0,Male,2010,Advanced Higher
-French,182.0,Male,2010,Advanced Higher
-Mathematics,1805.0,Male,2010,Advanced Higher
-Biology,754.0,Male,2010,Advanced Higher
-Chemistry,1151.0,Male,2010,Advanced Higher
-Physics,1330.0,Male,2010,Advanced Higher
-Computing,344.0,Male,2010,Advanced Higher
-English,1244.0,Female,2010,Advanced Higher
-French,520.0,Female,2010,Advanced Higher
-Mathematics,1131.0,Female,2010,Advanced Higher
-Biology,1423.0,Female,2010,Advanced Higher
-Chemistry,1075.0,Female,2010,Advanced Higher
-Physics,406.0,Female,2010,Advanced Higher
-Computing,70.0,Female,2010,Advanced Higher
-English,555.0,Male,2011,Advanced Higher
-French,155.0,Male,2011,Advanced Higher
-Mathematics,1895.0,Male,2011,Advanced Higher
-Biology,853.0,Male,2011,Advanced Higher
-Chemistry,1272.0,Male,2011,Advanced Higher
-Physics,1420.0,Male,2011,Advanced Higher
-Computing,381.0,Male,2011,Advanced Higher
-English,1306.0,Female,2011,Advanced Higher
-French,536.0,Female,2011,Advanced Higher
-Mathematics,1203.0,Female,2011,Advanced Higher
-Biology,1435.0,Female,2011,Advanced Higher
-Chemistry,1200.0,Female,2011,Advanced Higher
-Physics,337.0,Female,2011,Advanced Higher
-Computing,80.0,Female,2011,Advanced Higher
-English,528.0,Male,2012,Advanced Higher
-French,155.0,Male,2012,Advanced Higher
-Mathematics,2024.0,Male,2012,Advanced Higher
-Biology,842.0,Male,2012,Advanced Higher
-Chemistry,1271.0,Male,2012,Advanced Higher
-Physics,1521.0,Male,2012,Advanced Higher
-Computing,395.0,Male,2012,Advanced Higher
-English,1166.0,Female,2012,Advanced Higher
-French,491.0,Female,2012,Advanced Higher
-Mathematics,1215.0,Female,2012,Advanced Higher
-Biology,1575.0,Female,2012,Advanced Higher
-Chemistry,1225.0,Female,2012,Advanced Higher
-Physics,396.0,Female,2012,Advanced Higher
-Computing,65.0,Female,2012,Advanced Higher
-English,23052.0,Male,2013,Standard Grade
-French,9427.0,Male,2013,Standard Grade
-Mathematics,19532.0,Male,2013,Standard Grade
-Biology,6998.0,Male,2013,Standard Grade
-Chemistry,9346.0,Male,2013,Standard Grade
-Physics,9983.0,Male,2013,Standard Grade
-English,22513.0,Female,2013,Standard Grade
-French,11719.0,Female,2013,Standard Grade
-Mathematics,19153.0,Female,2013,Standard Grade
-Biology,13278.0,Female,2013,Standard Grade
-Chemistry,9439.0,Female,2013,Standard Grade
-Physics,4195.0,Female,2013,Standard Grade
-English,12398.0,Male,2013,Higher
-French,1018.0,Male,2013,Higher
-Mathematics,10743.0,Male,2013,Higher
-Biology,3628.0,Male,2013,Higher
-Chemistry,4946.0,Male,2013,Higher
-Physics,6219.0,Male,2013,Higher
-Computing,3097.0,Male,2013,Higher
-English,18038.0,Female,2013,Higher
-French,3221.0,Female,2013,Higher
-Mathematics,9922.0,Female,2013,Higher
-Biology,6343.0,Female,2013,Higher
-Chemistry,5058.0,Female,2013,Higher
-Physics,2574.0,Female,2013,Higher
-Computing,892.0,Female,2013,Higher
-English,559.0,Male,2013,Advanced Higher
-French,159.0,Male,2013,Advanced Higher
-Mathematics,2060.0,Male,2013,Advanced Higher
-Biology,830.0,Male,2013,Advanced Higher
-Chemistry,1324.0,Male,2013,Advanced Higher
-Physics,1454.0,Male,2013,Advanced Higher
-Computing,373.0,Male,2013,Advanced Higher
-English,1184.0,Female,2013,Advanced Higher
-French,514.0,Female,2013,Advanced Higher
-Mathematics,1254.0,Female,2013,Advanced Higher
-Biology,1628.0,Female,2013,Advanced Higher
-Chemistry,1221.0,Female,2013,Advanced Higher
-Physics,413.0,Female,2013,Advanced Higher
-Computing,62.0,Female,2013,Advanced Higher
+English and Communication,1566.0,Male,2000,Intermediate_2
+French,127.0,Male,2000,Intermediate_2
+Gaelic (Learners),3.0,Male,2000,Intermediate_2
+Gaidhlig,3.0,Male,2000,Intermediate_2
+German,57.0,Male,2000,Intermediate_2
+Italian,14.0,Male,2000,Intermediate_2
+Latin,2.0,Male,2000,Intermediate_2
+Spanish,52.0,Male,2000,Intermediate_2
+Accounting and Finance,149.0,Male,2000,Intermediate_2
+Mathematics,4427.0,Male,2000,Intermediate_2
+Biology,775.0,Male,2000,Intermediate_2
+Biotechnology,15.0,Male,2000,Intermediate_2
+Chemistry,588.0,Male,2000,Intermediate_2
+Geology,13.0,Male,2000,Intermediate_2
+Managing Environmental Resources,4.0,Male,2000,Intermediate_2
+Physics,1152.0,Male,2000,Intermediate_2
+Crop Establishment,7.0,Male,2000,Intermediate_2
+Fish Husbandry,6.0,Male,2000,Intermediate_2
+Investigating Fish Rearing Systems,6.0,Male,2000,Intermediate_2
+Investigating the Natural Environment,6.0,Male,2000,Intermediate_2
+Livestock Production,7.0,Male,2000,Intermediate_2
+Classical Studies,8.0,Male,2000,Intermediate_2
+Economics,54.0,Male,2000,Intermediate_2
+Geography,509.0,Male,2000,Intermediate_2
+History,515.0,Male,2000,Intermediate_2
+Modern Studies,328.0,Male,2000,Intermediate_2
+Philosophy,14.0,Male,2000,Intermediate_2
+Politics,4.0,Male,2000,Intermediate_2
+Psychology,26.0,Male,2000,Intermediate_2
+"Religious, Moral and Philosophical Studies",38.0,Male,2000,Intermediate_2
+Sociology,31.0,Male,2000,Intermediate_2
+Administration,179.0,Male,2000,Intermediate_2
+Business Management,323.0,Male,2000,Intermediate_2
+Care,11.0,Male,2000,Intermediate_2
+Care Issues for Society,1.0,Male,2000,Intermediate_2
+Computing,534.0,Male,2000,Intermediate_2
+Construction Craft Skills,15.0,Male,2000,Intermediate_2
+Construction Industry Practice,14.0,Male,2000,Intermediate_2
+Craft and Design,445.0,Male,2000,Intermediate_2
+Electronic and Electrical Fundamentals,46.0,Male,2000,Intermediate_2
+Engineering Craft Skills,100.0,Male,2000,Intermediate_2
+Graphic Communication,457.0,Male,2000,Intermediate_2
+Health and Safety in Care Settings,,Male,2000,Intermediate_2
+Home Economics - Fashion and Textile Technology,1.0,Male,2000,Intermediate_2
+Home Economics - Health and Food Technology,42.0,Male,2000,Intermediate_2
+Home Economics - Lifestyle and Consumer Technology,5.0,Male,2000,Intermediate_2
+Hospitality - General Operations,84.0,Male,2000,Intermediate_2
+Hospitality - Practical Cookery,350.0,Male,2000,Intermediate_2
+Hospitality - Professional Cookery,85.0,Male,2000,Intermediate_2
+Hospitality - Reception and Accommodation Operations,,Male,2000,Intermediate_2
+Information Systems,1286.0,Male,2000,Intermediate_2
+Structures,5.0,Male,2000,Intermediate_2
+Technological Studies,172.0,Male,2000,Intermediate_2
+Travel and Tourism,70.0,Male,2000,Intermediate_2
+Woodworking Skills,705.0,Male,2000,Intermediate_2
+Art and Design,258.0,Male,2000,Intermediate_2
+Drama,57.0,Male,2000,Intermediate_2
+Media Studies,88.0,Male,2000,Intermediate_2
+Music,218.0,Male,2000,Intermediate_2
+Physical Education,1069.0,Male,2000,Intermediate_2
+English and Communication,1634.0,Female,2000,Intermediate_2
+French,461.0,Female,2000,Intermediate_2
+Gaelic (Learners),12.0,Female,2000,Intermediate_2
+Gaidhlig,4.0,Female,2000,Intermediate_2
+German,143.0,Female,2000,Intermediate_2
+Italian,37.0,Female,2000,Intermediate_2
+Latin,12.0,Female,2000,Intermediate_2
+Spanish,168.0,Female,2000,Intermediate_2
+Accounting and Finance,239.0,Female,2000,Intermediate_2
+Mathematics,4402.0,Female,2000,Intermediate_2
+Biology,1767.0,Female,2000,Intermediate_2
+Biotechnology,27.0,Female,2000,Intermediate_2
+Chemistry,630.0,Female,2000,Intermediate_2
+Geology,6.0,Female,2000,Intermediate_2
+Managing Environmental Resources,,Female,2000,Intermediate_2
+Physics,451.0,Female,2000,Intermediate_2
+Crop Establishment,2.0,Female,2000,Intermediate_2
+Fish Husbandry,,Female,2000,Intermediate_2
+Investigating Fish Rearing Systems,,Female,2000,Intermediate_2
+Investigating the Natural Environment,2.0,Female,2000,Intermediate_2
+Livestock Production,2.0,Female,2000,Intermediate_2
+Classical Studies,16.0,Female,2000,Intermediate_2
+Economics,64.0,Female,2000,Intermediate_2
+Geography,324.0,Female,2000,Intermediate_2
+History,591.0,Female,2000,Intermediate_2
+Modern Studies,508.0,Female,2000,Intermediate_2
+Philosophy,33.0,Female,2000,Intermediate_2
+Politics,4.0,Female,2000,Intermediate_2
+Psychology,92.0,Female,2000,Intermediate_2
+"Religious, Moral and Philosophical Studies",95.0,Female,2000,Intermediate_2
+Sociology,52.0,Female,2000,Intermediate_2
+Administration,773.0,Female,2000,Intermediate_2
+Business Management,470.0,Female,2000,Intermediate_2
+Care,98.0,Female,2000,Intermediate_2
+Care Issues for Society,13.0,Female,2000,Intermediate_2
+Computing,229.0,Female,2000,Intermediate_2
+Construction Craft Skills,,Female,2000,Intermediate_2
+Construction Industry Practice,,Female,2000,Intermediate_2
+Craft and Design,67.0,Female,2000,Intermediate_2
+Electronic and Electrical Fundamentals,,Female,2000,Intermediate_2
+Engineering Craft Skills,10.0,Female,2000,Intermediate_2
+Graphic Communication,166.0,Female,2000,Intermediate_2
+Health and Safety in Care Settings,1.0,Female,2000,Intermediate_2
+Home Economics - Fashion and Textile Technology,10.0,Female,2000,Intermediate_2
+Home Economics - Health and Food Technology,286.0,Female,2000,Intermediate_2
+Home Economics - Lifestyle and Consumer Technology,26.0,Female,2000,Intermediate_2
+Hospitality - General Operations,70.0,Female,2000,Intermediate_2
+Hospitality - Practical Cookery,1269.0,Female,2000,Intermediate_2
+Hospitality - Professional Cookery,71.0,Female,2000,Intermediate_2
+Hospitality - Reception and Accommodation Operations,3.0,Female,2000,Intermediate_2
+Information Systems,741.0,Female,2000,Intermediate_2
+Structures,1.0,Female,2000,Intermediate_2
+Technological Studies,10.0,Female,2000,Intermediate_2
+Travel and Tourism,175.0,Female,2000,Intermediate_2
+Woodworking Skills,124.0,Female,2000,Intermediate_2
+Art and Design,337.0,Female,2000,Intermediate_2
+Drama,100.0,Female,2000,Intermediate_2
+Media Studies,86.0,Female,2000,Intermediate_2
+Music,247.0,Female,2000,Intermediate_2
+Physical Education,303.0,Female,2000,Intermediate_2
+Classical Greek,3.0,Male,2001,Intermediate_2
+English and Communication,5927.0,Male,2001,Intermediate_2
+French,243.0,Male,2001,Intermediate_2
+Gaelic (Learners),7.0,Male,2001,Intermediate_2
+Gàidhlig,3.0,Male,2001,Intermediate_2
+German,156.0,Male,2001,Intermediate_2
+Italian,31.0,Male,2001,Intermediate_2
+Latin,17.0,Male,2001,Intermediate_2
+Russian,1.0,Male,2001,Intermediate_2
+Spanish,73.0,Male,2001,Intermediate_2
+Accounting and Finance,209.0,Male,2001,Intermediate_2
+Mathematics,5862.0,Male,2001,Intermediate_2
+Biology,1006.0,Male,2001,Intermediate_2
+Biotechnology,27.0,Male,2001,Intermediate_2
+Chemistry,715.0,Male,2001,Intermediate_2
+Geology,23.0,Male,2001,Intermediate_2
+Managing Environmental Resources,20.0,Male,2001,Intermediate_2
+Physics,1395.0,Male,2001,Intermediate_2
+Amenity Horticulture,10.0,Male,2001,Intermediate_2
+Crop Establishment,5.0,Male,2001,Intermediate_2
+Fish Husbandry,7.0,Male,2001,Intermediate_2
+Investigating Fish Rearing Systems,6.0,Male,2001,Intermediate_2
+Livestock Production,5.0,Male,2001,Intermediate_2
+Plant Propagation,10.0,Male,2001,Intermediate_2
+Classical Studies,12.0,Male,2001,Intermediate_2
+Economics,69.0,Male,2001,Intermediate_2
+Geography,794.0,Male,2001,Intermediate_2
+History,756.0,Male,2001,Intermediate_2
+Modern Studies,522.0,Male,2001,Intermediate_2
+Philosophy,17.0,Male,2001,Intermediate_2
+Psychology,49.0,Male,2001,Intermediate_2
+"Religious, Moral and Philosophical Studies",88.0,Male,2001,Intermediate_2
+Sociology,23.0,Male,2001,Intermediate_2
+Administration,592.0,Male,2001,Intermediate_2
+Business Management,428.0,Male,2001,Intermediate_2
+Care,31.0,Male,2001,Intermediate_2
+Care Issues for Society,12.0,Male,2001,Intermediate_2
+Computing,1314.0,Male,2001,Intermediate_2
+Construction Craft Skills,19.0,Male,2001,Intermediate_2
+Construction Industry Practice,37.0,Male,2001,Intermediate_2
+Craft and Design,511.0,Male,2001,Intermediate_2
+Design,13.0,Male,2001,Intermediate_2
+Electronic and Electrical Fundamentals,64.0,Male,2001,Intermediate_2
+Engineering Craft Skills,157.0,Male,2001,Intermediate_2
+Fabrication and Welding,4.0,Male,2001,Intermediate_2
+Graphic Communication,604.0,Male,2001,Intermediate_2
+Health and Safety in Care Settings,6.0,Male,2001,Intermediate_2
+Home Economics - Fashion and Textile Technology,,Male,2001,Intermediate_2
+Home Economics - Health and Food Technology,35.0,Male,2001,Intermediate_2
+Home Economics - Lifestyle and Consumer Technology,4.0,Male,2001,Intermediate_2
+Hospitality - General Operations,104.0,Male,2001,Intermediate_2
+Hospitality - Practical Cookery,487.0,Male,2001,Intermediate_2
+Hospitality - Professional Cookery,107.0,Male,2001,Intermediate_2
+Information Systems,2161.0,Male,2001,Intermediate_2
+Personal and Social Education,13.0,Male,2001,Intermediate_2
+Selling Overseas Tourist Destinations,6.0,Male,2001,Intermediate_2
+Technological Studies,159.0,Male,2001,Intermediate_2
+Travel and Tourism,171.0,Male,2001,Intermediate_2
+Woodworking Skills,1266.0,Male,2001,Intermediate_2
+Art and Design,712.0,Male,2001,Intermediate_2
+Drama,150.0,Male,2001,Intermediate_2
+Media Studies,185.0,Male,2001,Intermediate_2
+Music,333.0,Male,2001,Intermediate_2
+Fitness and Exercise,4.0,Male,2001,Intermediate_2
+Leading Sports Activities,5.0,Male,2001,Intermediate_2
+Physical Education,1369.0,Male,2001,Intermediate_2
+Classical Greek,7.0,Female,2001,Intermediate_2
+English and Communication,5417.0,Female,2001,Intermediate_2
+French,701.0,Female,2001,Intermediate_2
+Gaelic (Learners),8.0,Female,2001,Intermediate_2
+Gàidhlig,4.0,Female,2001,Intermediate_2
+German,323.0,Female,2001,Intermediate_2
+Italian,102.0,Female,2001,Intermediate_2
+Latin,6.0,Female,2001,Intermediate_2
+Russian,,Female,2001,Intermediate_2
+Spanish,269.0,Female,2001,Intermediate_2
+Accounting and Finance,301.0,Female,2001,Intermediate_2
+Mathematics,5886.0,Female,2001,Intermediate_2
+Biology,2418.0,Female,2001,Intermediate_2
+Biotechnology,39.0,Female,2001,Intermediate_2
+Chemistry,775.0,Female,2001,Intermediate_2
+Geology,5.0,Female,2001,Intermediate_2
+Managing Environmental Resources,20.0,Female,2001,Intermediate_2
+Physics,454.0,Female,2001,Intermediate_2
+Amenity Horticulture,13.0,Female,2001,Intermediate_2
+Crop Establishment,,Female,2001,Intermediate_2
+Fish Husbandry,,Female,2001,Intermediate_2
+Investigating Fish Rearing Systems,,Female,2001,Intermediate_2
+Livestock Production,,Female,2001,Intermediate_2
+Plant Propagation,13.0,Female,2001,Intermediate_2
+Classical Studies,31.0,Female,2001,Intermediate_2
+Economics,77.0,Female,2001,Intermediate_2
+Geography,507.0,Female,2001,Intermediate_2
+History,844.0,Female,2001,Intermediate_2
+Modern Studies,629.0,Female,2001,Intermediate_2
+Philosophy,32.0,Female,2001,Intermediate_2
+Psychology,194.0,Female,2001,Intermediate_2
+"Religious, Moral and Philosophical Studies",187.0,Female,2001,Intermediate_2
+Sociology,97.0,Female,2001,Intermediate_2
+Administration,2238.0,Female,2001,Intermediate_2
+Business Management,607.0,Female,2001,Intermediate_2
+Care,296.0,Female,2001,Intermediate_2
+Care Issues for Society,109.0,Female,2001,Intermediate_2
+Computing,522.0,Female,2001,Intermediate_2
+Construction Craft Skills,,Female,2001,Intermediate_2
+Construction Industry Practice,,Female,2001,Intermediate_2
+Craft and Design,135.0,Female,2001,Intermediate_2
+Design,33.0,Female,2001,Intermediate_2
+Electronic and Electrical Fundamentals,4.0,Female,2001,Intermediate_2
+Engineering Craft Skills,7.0,Female,2001,Intermediate_2
+Fabrication and Welding,,Female,2001,Intermediate_2
+Graphic Communication,223.0,Female,2001,Intermediate_2
+Health and Safety in Care Settings,41.0,Female,2001,Intermediate_2
+Home Economics - Fashion and Textile Technology,41.0,Female,2001,Intermediate_2
+Home Economics - Health and Food Technology,238.0,Female,2001,Intermediate_2
+Home Economics - Lifestyle and Consumer Technology,47.0,Female,2001,Intermediate_2
+Hospitality - General Operations,103.0,Female,2001,Intermediate_2
+Hospitality - Practical Cookery,1545.0,Female,2001,Intermediate_2
+Hospitality - Professional Cookery,97.0,Female,2001,Intermediate_2
+Information Systems,1123.0,Female,2001,Intermediate_2
+Personal and Social Education,22.0,Female,2001,Intermediate_2
+Selling Overseas Tourist Destinations,36.0,Female,2001,Intermediate_2
+Technological Studies,2.0,Female,2001,Intermediate_2
+Travel and Tourism,437.0,Female,2001,Intermediate_2
+Woodworking Skills,247.0,Female,2001,Intermediate_2
+Art and Design,1063.0,Female,2001,Intermediate_2
+Drama,312.0,Female,2001,Intermediate_2
+Media Studies,245.0,Female,2001,Intermediate_2
+Music,382.0,Female,2001,Intermediate_2
+Fitness and Exercise,4.0,Female,2001,Intermediate_2
+Leading Sports Activities,5.0,Female,2001,Intermediate_2
+Physical Education,416.0,Female,2001,Intermediate_2
+English and Communication,7215.0,Male,2002,Intermediate_2
+French,277.0,Male,2002,Intermediate_2
+Gaelic (Learners),5.0,Male,2002,Intermediate_2
+Gaidhlig,1.0,Male,2002,Intermediate_2
+German,134.0,Male,2002,Intermediate_2
+Italian,24.0,Male,2002,Intermediate_2
+Latin,22.0,Male,2002,Intermediate_2
+Spanish,117.0,Male,2002,Intermediate_2
+Accounting and Finance,220.0,Male,2002,Intermediate_2
+Mathematics,6414.0,Male,2002,Intermediate_2
+Biology,1141.0,Male,2002,Intermediate_2
+Biotechnology,32.0,Male,2002,Intermediate_2
+Chemistry,755.0,Male,2002,Intermediate_2
+Geology,16.0,Male,2002,Intermediate_2
+Managing Environmental Resources,23.0,Male,2002,Intermediate_2
+Physics,1502.0,Male,2002,Intermediate_2
+Amenity Horticulture,19.0,Male,2002,Intermediate_2
+Fish Husbandry,2.0,Male,2002,Intermediate_2
+Forestry Practice,4.0,Male,2002,Intermediate_2
+Investigating Fish Rearing Systems,2.0,Male,2002,Intermediate_2
+Investigating the Natural Environment,2.0,Male,2002,Intermediate_2
+Plant Propagation,18.0,Male,2002,Intermediate_2
+Classical Studies,21.0,Male,2002,Intermediate_2
+Economics,56.0,Male,2002,Intermediate_2
+Geography,903.0,Male,2002,Intermediate_2
+History,856.0,Male,2002,Intermediate_2
+Modern Studies,517.0,Male,2002,Intermediate_2
+Philosophy,42.0,Male,2002,Intermediate_2
+Politics,1.0,Male,2002,Intermediate_2
+Psychology,80.0,Male,2002,Intermediate_2
+"Religious, Moral and Philosophical Studies",148.0,Male,2002,Intermediate_2
+Sociology,36.0,Male,2002,Intermediate_2
+Administration,842.0,Male,2002,Intermediate_2
+Business Management,527.0,Male,2002,Intermediate_2
+Care,64.0,Male,2002,Intermediate_2
+Care Issues for Society,19.0,Male,2002,Intermediate_2
+Computing,1577.0,Male,2002,Intermediate_2
+Construction Craft Skills,11.0,Male,2002,Intermediate_2
+Construction Industry Practice,35.0,Male,2002,Intermediate_2
+Craft and Design,629.0,Male,2002,Intermediate_2
+Design,9.0,Male,2002,Intermediate_2
+Electronic and Electrical Fundamentals,61.0,Male,2002,Intermediate_2
+Engineering Craft Skills,215.0,Male,2002,Intermediate_2
+Fabrication and Welding,2.0,Male,2002,Intermediate_2
+Graphic Communication,763.0,Male,2002,Intermediate_2
+Health and Safety in Care Settings,11.0,Male,2002,Intermediate_2
+Home Economics - Fashion and Textile Technology,0.0,Male,2002,Intermediate_2
+Home Economics - Health and Food Technology,27.0,Male,2002,Intermediate_2
+Home Economics - Lifestyle and Consumer Technology,6.0,Male,2002,Intermediate_2
+Hospitality - General Operations,76.0,Male,2002,Intermediate_2
+Hospitality - Practical Cookery,509.0,Male,2002,Intermediate_2
+Hospitality - Professional Cookery,135.0,Male,2002,Intermediate_2
+Hospitality - Reception and Accommodation Operations,1.0,Male,2002,Intermediate_2
+Information Systems,2271.0,Male,2002,Intermediate_2
+Personal and Social Education,6.0,Male,2002,Intermediate_2
+Selling Overseas Tourist Destinations,13.0,Male,2002,Intermediate_2
+Technological Studies,228.0,Male,2002,Intermediate_2
+Travel and Tourism,204.0,Male,2002,Intermediate_2
+Woodworking Skills,1536.0,Male,2002,Intermediate_2
+Art and Design,846.0,Male,2002,Intermediate_2
+Drama,205.0,Male,2002,Intermediate_2
+Media Studies,202.0,Male,2002,Intermediate_2
+Music,422.0,Male,2002,Intermediate_2
+Fitness and Exercise,21.0,Male,2002,Intermediate_2
+Leading Sports Activities,4.0,Male,2002,Intermediate_2
+Physical Education,1544.0,Male,2002,Intermediate_2
+English and Communication,6429.0,Female,2002,Intermediate_2
+French,809.0,Female,2002,Intermediate_2
+Gaelic (Learners),29.0,Female,2002,Intermediate_2
+Gaidhlig,7.0,Female,2002,Intermediate_2
+German,340.0,Female,2002,Intermediate_2
+Italian,90.0,Female,2002,Intermediate_2
+Latin,24.0,Female,2002,Intermediate_2
+Spanish,366.0,Female,2002,Intermediate_2
+Accounting and Finance,377.0,Female,2002,Intermediate_2
+Mathematics,6113.0,Female,2002,Intermediate_2
+Biology,2351.0,Female,2002,Intermediate_2
+Biotechnology,48.0,Female,2002,Intermediate_2
+Chemistry,678.0,Female,2002,Intermediate_2
+Geology,4.0,Female,2002,Intermediate_2
+Managing Environmental Resources,25.0,Female,2002,Intermediate_2
+Physics,380.0,Female,2002,Intermediate_2
+Amenity Horticulture,11.0,Female,2002,Intermediate_2
+Fish Husbandry,1.0,Female,2002,Intermediate_2
+Forestry Practice,0.0,Female,2002,Intermediate_2
+Investigating Fish Rearing Systems,1.0,Female,2002,Intermediate_2
+Investigating the Natural Environment,1.0,Female,2002,Intermediate_2
+Plant Propagation,10.0,Female,2002,Intermediate_2
+Classical Studies,21.0,Female,2002,Intermediate_2
+Economics,83.0,Female,2002,Intermediate_2
+Geography,602.0,Female,2002,Intermediate_2
+History,922.0,Female,2002,Intermediate_2
+Modern Studies,704.0,Female,2002,Intermediate_2
+Philosophy,45.0,Female,2002,Intermediate_2
+Politics,0.0,Female,2002,Intermediate_2
+Psychology,315.0,Female,2002,Intermediate_2
+"Religious, Moral and Philosophical Studies",322.0,Female,2002,Intermediate_2
+Sociology,106.0,Female,2002,Intermediate_2
+Administration,2649.0,Female,2002,Intermediate_2
+Business Management,740.0,Female,2002,Intermediate_2
+Care,635.0,Female,2002,Intermediate_2
+Care Issues for Society,162.0,Female,2002,Intermediate_2
+Computing,603.0,Female,2002,Intermediate_2
+Construction Craft Skills,0.0,Female,2002,Intermediate_2
+Construction Industry Practice,1.0,Female,2002,Intermediate_2
+Craft and Design,147.0,Female,2002,Intermediate_2
+Design,12.0,Female,2002,Intermediate_2
+Electronic and Electrical Fundamentals,3.0,Female,2002,Intermediate_2
+Engineering Craft Skills,19.0,Female,2002,Intermediate_2
+Fabrication and Welding,2.0,Female,2002,Intermediate_2
+Graphic Communication,253.0,Female,2002,Intermediate_2
+Health and Safety in Care Settings,88.0,Female,2002,Intermediate_2
+Home Economics - Fashion and Textile Technology,63.0,Female,2002,Intermediate_2
+Home Economics - Health and Food Technology,262.0,Female,2002,Intermediate_2
+Home Economics - Lifestyle and Consumer Technology,84.0,Female,2002,Intermediate_2
+Hospitality - General Operations,151.0,Female,2002,Intermediate_2
+Hospitality - Practical Cookery,1847.0,Female,2002,Intermediate_2
+Hospitality - Professional Cookery,133.0,Female,2002,Intermediate_2
+Hospitality - Reception and Accommodation Operations,6.0,Female,2002,Intermediate_2
+Information Systems,1143.0,Female,2002,Intermediate_2
+Personal and Social Education,23.0,Female,2002,Intermediate_2
+Selling Overseas Tourist Destinations,116.0,Female,2002,Intermediate_2
+Technological Studies,10.0,Female,2002,Intermediate_2
+Travel and Tourism,527.0,Female,2002,Intermediate_2
+Woodworking Skills,367.0,Female,2002,Intermediate_2
+Art and Design,1147.0,Female,2002,Intermediate_2
+Drama,337.0,Female,2002,Intermediate_2
+Media Studies,261.0,Female,2002,Intermediate_2
+Music,479.0,Female,2002,Intermediate_2
+Fitness and Exercise,9.0,Female,2002,Intermediate_2
+Leading Sports Activities,1.0,Female,2002,Intermediate_2
+Physical Education,389.0,Female,2002,Intermediate_2
