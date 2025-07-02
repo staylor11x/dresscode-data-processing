@@ -3167,62 +3167,6 @@ Music,2736.0,Female,2013,Higher
 Photography,1277.0,Female,2013,Higher
 Dance Practice,359.0,Female,2013,Higher
 Physical Education,1974.0,Female,2013,Higher
-Classical Greek,,None,2000,CSYS
-English,504.0,None,2000,CSYS
-French,83.0,None,2000,CSYS
-Gaidhlig,5.0,None,2000,CSYS
-German,30.0,None,2000,CSYS
-Italian,3.0,None,2000,CSYS
-Latin,11.0,None,2000,CSYS
-Spanish,14.0,None,2000,CSYS
-Accounting and Finance,11.0,None,2000,CSYS
-Mathematics I,1500.0,None,2000,CSYS
-Mathematics II,133.0,None,2000,CSYS
-Mathematics III,217.0,None,2000,CSYS
-Mathematics IV,32.0,None,2000,CSYS
-Mathematics V,125.0,None,2000,CSYS
-Biology,381.0,None,2000,CSYS
-Chemistry,749.0,None,2000,CSYS
-Physics,862.0,None,2000,CSYS
-Classical Studies,7.0,None,2000,CSYS
-Economics,35.0,None,2000,CSYS
-Geography,216.0,None,2000,CSYS
-History,278.0,None,2000,CSYS
-Modern Studies,146.0,None,2000,CSYS
-Religious Studies,2.0,None,2000,CSYS
-Computing Studies,268.0,None,2000,CSYS
-Technological Studies,23.0,None,2000,CSYS
-Art and Design (Enquiry),293.0,None,2000,CSYS
-Art and Design (Research and Appreciation),9.0,None,2000,CSYS
-Music,183.0,None,2000,CSYS
-Classical Greek,1.0,None,2000,CSYS
-English,1106.0,None,2000,CSYS
-French,327.0,None,2000,CSYS
-Gaidhlig,11.0,None,2000,CSYS
-German,118.0,None,2000,CSYS
-Italian,7.0,None,2000,CSYS
-Latin,24.0,None,2000,CSYS
-Spanish,64.0,None,2000,CSYS
-Accounting and Finance,8.0,None,2000,CSYS
-Mathematics I,921.0,None,2000,CSYS
-Mathematics II,61.0,None,2000,CSYS
-Mathematics III,188.0,None,2000,CSYS
-Mathematics IV,18.0,None,2000,CSYS
-Mathematics V,26.0,None,2000,CSYS
-Biology,876.0,None,2000,CSYS
-Chemistry,811.0,None,2000,CSYS
-Physics,243.0,None,2000,CSYS
-Classical Studies,5.0,None,2000,CSYS
-Economics,17.0,None,2000,CSYS
-Geography,253.0,None,2000,CSYS
-History,360.0,None,2000,CSYS
-Modern Studies,294.0,None,2000,CSYS
-Religious Studies,15.0,None,2000,CSYS
-Computing Studies,33.0,None,2000,CSYS
-Technological Studies,1.0,None,2000,CSYS
-Art and Design (Enquiry),721.0,None,2000,CSYS
-Art and Design (Research and Appreciation),34.0,None,2000,CSYS
-Music,342.0,None,2000,CSYS
 Classical Greek,1.0,Male,2002,Advanced_Higher
 English and Communication,363.0,Male,2002,Advanced_Higher
 French,114.0,Male,2002,Advanced_Higher
@@ -4217,3 +4161,59 @@ Art and Design: Expressive,731.0,Female,2013,Advanced_Higher
 Drama,218.0,Female,2013,Advanced_Higher
 Music,728.0,Female,2013,Advanced_Higher
 Physical Education,46.0,Female,2013,Advanced_Higher
+Classical Greek,,Male,2000,CSYS
+English,504.0,Male,2000,CSYS
+French,83.0,Male,2000,CSYS
+Gaidhlig,5.0,Male,2000,CSYS
+German,30.0,Male,2000,CSYS
+Italian,3.0,Male,2000,CSYS
+Latin,11.0,Male,2000,CSYS
+Spanish,14.0,Male,2000,CSYS
+Accounting and Finance,11.0,Male,2000,CSYS
+Mathematics I,1500.0,Male,2000,CSYS
+Mathematics II,133.0,Male,2000,CSYS
+Mathematics III,217.0,Male,2000,CSYS
+Mathematics IV,32.0,Male,2000,CSYS
+Mathematics V,125.0,Male,2000,CSYS
+Biology,381.0,Male,2000,CSYS
+Chemistry,749.0,Male,2000,CSYS
+Physics,862.0,Male,2000,CSYS
+Classical Studies,7.0,Male,2000,CSYS
+Economics,35.0,Male,2000,CSYS
+Geography,216.0,Male,2000,CSYS
+History,278.0,Male,2000,CSYS
+Modern Studies,146.0,Male,2000,CSYS
+Religious Studies,2.0,Male,2000,CSYS
+Computing Studies,268.0,Male,2000,CSYS
+Technological Studies,23.0,Male,2000,CSYS
+Art and Design (Enquiry),293.0,Male,2000,CSYS
+Art and Design (Research and Appreciation),9.0,Male,2000,CSYS
+Music,183.0,Male,2000,CSYS
+Classical Greek,1.0,Female,2000,CSYS
+English,1106.0,Female,2000,CSYS
+French,327.0,Female,2000,CSYS
+Gaidhlig,11.0,Female,2000,CSYS
+German,118.0,Female,2000,CSYS
+Italian,7.0,Female,2000,CSYS
+Latin,24.0,Female,2000,CSYS
+Spanish,64.0,Female,2000,CSYS
+Accounting and Finance,8.0,Female,2000,CSYS
+Mathematics I,921.0,Female,2000,CSYS
+Mathematics II,61.0,Female,2000,CSYS
+Mathematics III,188.0,Female,2000,CSYS
+Mathematics IV,18.0,Female,2000,CSYS
+Mathematics V,26.0,Female,2000,CSYS
+Biology,876.0,Female,2000,CSYS
+Chemistry,811.0,Female,2000,CSYS
+Physics,243.0,Female,2000,CSYS
+Classical Studies,5.0,Female,2000,CSYS
+Economics,17.0,Female,2000,CSYS
+Geography,253.0,Female,2000,CSYS
+History,360.0,Female,2000,CSYS
+Modern Studies,294.0,Female,2000,CSYS
+Religious Studies,15.0,Female,2000,CSYS
+Computing Studies,33.0,Female,2000,CSYS
+Technological Studies,1.0,Female,2000,CSYS
+Art and Design (Enquiry),721.0,Female,2000,CSYS
+Art and Design (Research and Appreciation),34.0,Female,2000,CSYS
+Music,342.0,Female,2000,CSYS

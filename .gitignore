@@ -196,3 +196,4 @@ cython_debug/
 
 # Weird output files
 output/~*
+*notes.txt
