@@ -34,7 +34,7 @@ def process_file(config, processed_cache, output_dir, exclude_keywords):
             continue
 
         file_path = os.path.join(config.folder, filename)
-        if cache.was_processed(processed_cache, file_path):
+        if cache.was_processed(processed_cache, filename):
             print(f"🔄 Skipping already processed file: {filename}")
             continue
 
@@ -45,7 +45,7 @@ def process_file(config, processed_cache, output_dir, exclude_keywords):
         if not processed_df.empty:
             save_to_file(processed_df, config, output_dir, year)
 
-        cache.mark_processed(processed_cache, file_path)
+        cache.mark_processed(processed_cache, filename)
 
     return overall_output_df
 

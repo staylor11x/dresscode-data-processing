@@ -13,8 +13,8 @@ def save_cache(cache):
     with open(CACHE_FILE, "w") as f:
         json.dump(cache, f, indent=2)
 
-def was_processed(cache, file_path):
-    return cache.get(file_path, False)
+def was_processed(cache, filename):
+    return cache.get(filename, False)
 
-def mark_processed(cache, file_path):
-    cache[file_path] = True
+def mark_processed(cache, filename):
+    cache[filename] = True
