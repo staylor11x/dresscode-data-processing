@@ -80,13 +80,13 @@ if os.path.exists(OUTPUT_FILE):
 # De-duplicate and save
 # Clean up for deduplication
 combined_df["Subject"] = combined_df["Subject"].astype(str).str.strip()
-combined_df["Level"] = combined_df["Level"].astype(str).str.strip()
+combined_df["Qualification"] = combined_df["Qualification"].astype(str).str.strip()
 combined_df["Gender"] = combined_df["Gender"].astype(str).str.strip()
 combined_df["Entries"] = pd.to_numeric(combined_df["Entries"], errors='coerce')
 
 # Drop duplicates across the key columns
 combined_df.drop_duplicates(
-    subset=["Year", "Gender", "Subject", "Level", "Entries"],
+    subset=["Year", "Gender", "Subject", "Qualification", "Entries"],
     inplace=True
 )
 

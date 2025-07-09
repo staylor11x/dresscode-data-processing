@@ -3,7 +3,7 @@ from typing import List, Tuple
 
 @dataclass
 class SheetConfig:
-    level:str
+    qualification:str
     folder:str
     sheets: List[str]
     gender_cell: str

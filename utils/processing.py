@@ -75,7 +75,7 @@ def process_sheet(config, file_path, filename, exclude_keywords):
 
             df_filtered["Gender"] = gender
             df_filtered["Year"] = year
-            df_filtered["Level"] = config.level
+            df_filtered["Qualification"] = config.qualification
 
             combined_df = pd.concat([combined_df, df_filtered], ignore_index=True)
 
@@ -91,8 +91,8 @@ def save_to_file(df, c, output_dir, year):
     os.makedirs(output_dir, exist_ok=True)
     
     # Construct output file name
-    safe_level = c.level.replace(" ", "_")
-    output_filename = f"{safe_level}_{year}.xlsx"
+    safe_qualification = c.qualification.replace(" ", "_")
+    output_filename = f"{safe_qualification}_{year}.xlsx"
     output_path = os.path.join(output_dir, output_filename)
 
     # Always overwrite the file

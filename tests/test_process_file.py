@@ -8,7 +8,7 @@ def test_process_file_integration(tmp_path):
     # Arrange
     test_data_dir = os.path.join(os.path.dirname(__file__), "test_data")
     config = SheetConfig(
-        level="Test_Level",
+        qualification="Test_Level",
         folder=test_data_dir,
         sheets=["Sheet1"],
         gender_cell="A3",

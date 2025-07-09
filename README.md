@@ -1,6 +1,6 @@
 # 📊 Scottish Qualification Data Processor
 
-This project extracts, cleans, and aggregates subject-level entry data from a variety of Excel sources representing different Scottish qualification levels (e.g. Intermediate 2, Higher, Advanced Higher). The output is saved both as a combined CSV and as individual Excel files per level and year.
+This project extracts, cleans, and aggregates subject-level entry data from a variety of Excel sources representing different Scottish qualification levels (e.g. Intermediate 2, Higher, Advanced Higher). The output is saved both as a combined CSV and as individual Excel files per qualification and year.
 
 ## 🧰 Features
 
@@ -9,7 +9,7 @@ This project extracts, cleans, and aggregates subject-level entry data from a va
 - ✅ Filters out non-subject rows using keyword exclusion
 - ✅ Saves:
   - A combined `.csv` file of all data (`combined_output.csv`)
-  - Per-level Excel files like `Intermediate_2_2000.xlsx`
+  - Per-qualification-level Excel files like `Intermediate_2_2000.xlsx`
 - ✅ Tracks processed files with a local cache to avoid duplication
 - ✅ Exports a list of unique subject names (`subject_names.csv`)
 - ✅ Robust deduplication logic for output
@@ -50,7 +50,7 @@ Each Excel source is defined with:
 
 ```python
 SheetConfig(
-    level="Intermediate_2",
+    qualification="Intermediate_2",
     folder="data/Standard Grade/IM2",
     sheets=["IB4a", "IB4b"],
     gender_cell="A3",
@@ -77,7 +77,7 @@ The output CSV (combined_output.csv) is de-duplicated on:
 - Year
 - Gender
 - Subject
-- Level
+- Qualification
 - Entries
 
 This ensures consistent aggregation across re-runs or expanded source data.
